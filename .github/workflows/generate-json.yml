@@ -52,7 +52,7 @@ jobs:
       with:
         author_name: github-action
         author_email: bot@example.com
-        message: Bot: Update characters.json
+        message: "Bot: Update characters.json"
         branch: release
         add: characters.json
       env:
