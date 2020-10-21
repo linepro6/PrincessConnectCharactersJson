@@ -1,6 +1,9 @@
 name: Generate Characters Json
 
-on: [push]
+on:
+  push:
+    branches:
+      - master
 
 jobs:
   build:
@@ -49,8 +52,8 @@ jobs:
       with:
         author_name: github-action
         author_email: bot@example.com
-        message: "Bot: Update characters.json"
+        message: Bot: Update characters.json
         branch: release
-        add: "characters.json"
+        add: characters.json
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
