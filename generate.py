@@ -29,7 +29,7 @@ def main():
                     chara["nicknames"].append(row[j])
             obj[int(row[0])] = chara
         f_r.close()
-    with open("characters.json", "w", encoding="utf-8") as f_w:
+    with open("characters_release.json", "w", encoding="utf-8") as f_w:
         json.dump(obj, f_w, indent=4, ensure_ascii=False)
         f_w.close()
 

@@ -15,9 +15,7 @@ jobs:
     - name: Set up Python 3.x
       uses: actions/setup-python@v2
       with:
-        # Python 版本的语义版本范围矩阵或准确的版本
         python-version: '3.x'
-        # 可选 - x64 或 x86 架构，默认为 x64
         architecture: 'x64'
     - name: Generate Json
       run: python generate.py
@@ -27,7 +25,7 @@ jobs:
     - uses: actions/upload-artifact@v2
       with:
         name: characters.json
-        path: characters.json
+        path: characters_release.json
     - name: Create Release
       id: create_release
       uses: actions/create-release@v1
@@ -44,9 +42,17 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: characters.json
+        asset_path: characters_release.json
         asset_name: characters.json
         asset_content_type: application/json
+    - name: Checkout release branch
+      uses: actions/checkout@v2
+      with:
+        ref: release
+    - name: Rename characters_release.json to characters.json
+      run: |
+        rm characters.json
+        mv characters_release.json characters.json
     - name: Commit Json
       uses: EndBug/add-and-commit@v5
       with:
