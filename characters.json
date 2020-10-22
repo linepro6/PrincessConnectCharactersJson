@@ -1844,5 +1844,17 @@
             "月光蝶",
             "飞妈"
         ]
+    },
+    "2000": {
+        "location": "behind",
+        "cn_exists": false,
+        "range": 1000,
+        "init_star": 5,
+        "cn_name": "佑树（测试）",
+        "jp_name": "佑树（测试）",
+        "tw_name": "佑树（测试）",
+        "nicknames": [
+            "佑树（测试）"
+        ]
     }
 }
