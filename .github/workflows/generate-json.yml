@@ -64,3 +64,5 @@ jobs:
         add: characters.json
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Refresh jsdelivr cache
+      run: curl https://purge.jsdelivr.net/gh/linepro6/PrincessConnectReDiveCharactersJson@release/characters.json
