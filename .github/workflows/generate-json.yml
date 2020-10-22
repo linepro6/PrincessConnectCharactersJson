@@ -49,6 +49,7 @@ jobs:
       uses: actions/checkout@v2
       with:
         ref: release
+        clean: false
     - name: Rename characters_release.json to characters.json
       run: |
         rm characters.json
