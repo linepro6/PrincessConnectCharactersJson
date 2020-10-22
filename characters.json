@@ -1692,8 +1692,9 @@
         "init_star": 3,
         "cn_name": "流夏（夏日）",
         "jp_name": "ルカ（サマー）",
-        "tw_name": "水流",
+        "tw_name": "",
         "nicknames": [
+            "水流",
             "水流夏"
         ]
     },
@@ -1704,8 +1705,9 @@
         "init_star": 1,
         "cn_name": "杏奈（夏日）",
         "jp_name": "アンナ（サマー）",
-        "tw_name": "水中二",
+        "tw_name": "",
         "nicknames": [
+            "水中二",
             "冲二"
         ]
     },
@@ -1716,8 +1718,10 @@
         "init_star": 3,
         "cn_name": "七七香（夏日）",
         "jp_name": "ナナカ（サマー）",
-        "tw_name": "水七",
-        "nicknames": []
+        "tw_name": "",
+        "nicknames": [
+            "水七"
+        ]
     },
     "1134": {
         "location": "middle",
@@ -1726,8 +1730,9 @@
         "init_star": 3,
         "cn_name": "初音（夏日）",
         "jp_name": "ハツネ（サマー）",
-        "tw_name": "水星",
+        "tw_name": "",
         "nicknames": [
+            "水星",
             "海星"
         ]
     },
@@ -1738,8 +1743,9 @@
         "init_star": 1,
         "cn_name": "美里（夏日）",
         "jp_name": "ミサト（サマー）",
-        "tw_name": "水母",
+        "tw_name": "",
         "nicknames": [
+            "水母",
             "水美里"
         ]
     },
@@ -1750,8 +1756,9 @@
         "init_star": 3,
         "cn_name": "纯（夏日）",
         "jp_name": "ジュン（サマー）",
-        "tw_name": "水黑骑",
+        "tw_name": "",
         "nicknames": [
+            "水黑骑",
             "水骑"
         ]
     },
@@ -1762,8 +1769,10 @@
         "init_star": 3,
         "cn_name": "茜里（天使）",
         "jp_name": "アカリ（エンジェル）",
-        "tw_name": "天使妹法",
-        "nicknames": []
+        "tw_name": "",
+        "nicknames": [
+            "天使妹法"
+        ]
     },
     "1138": {
         "location": null,
@@ -1772,8 +1781,10 @@
         "init_star": null,
         "cn_name": "依里（天使）",
         "jp_name": "ヨリ（エンジェル）",
-        "tw_name": "天使姐法",
-        "nicknames": []
+        "tw_name": "",
+        "nicknames": [
+            "天使姐法"
+        ]
     },
     "1701": {
         "location": "middle",
@@ -1781,9 +1792,10 @@
         "range": 433,
         "init_star": 3,
         "cn_name": "桥本环奈",
-        "jp_name": "桥本环奈",
-        "tw_name": "毛大力",
+        "jp_name": "橋本 環奈",
+        "tw_name": "橋本環奈",
         "nicknames": [
+            "毛大力",
             "桥本"
         ]
     },
