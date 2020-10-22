@@ -1778,7 +1778,7 @@
         "location": null,
         "cn_exists": false,
         "range": null,
-        "init_star": null,
+        "init_star": 3,
         "cn_name": "依里（天使）",
         "jp_name": "ヨリ（エンジェル）",
         "tw_name": "",
