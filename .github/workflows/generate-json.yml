@@ -19,50 +19,54 @@ jobs:
         architecture: 'x64'
     - name: Generate Json
       run: python generate.py
-    - name: Get current date
-      id: date
-      run: echo "::set-output name=date::$(date +'%Y-%m-%d-%H-%M-%S')"
-    - uses: actions/upload-artifact@v2
-      with:
-        name: characters.json
-        path: characters_release.json
-    - name: Create Release
-      id: create_release
-      uses: actions/create-release@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        tag_name: release-${{ steps.date.outputs.date }}
-        release_name: release-${{ steps.date.outputs.date }}
-        draft: false
-        prerelease: false
-    - name: Upload Release Asset
-      uses: actions/upload-release-asset@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: characters_release.json
-        asset_name: characters.json
-        asset_content_type: application/json
+    # - name: Get current date
+    #   id: date
+    #   run: echo "::set-output name=date::$(date +'%Y-%m-%d-%H-%M-%S')"
+    # - uses: actions/upload-artifact@v2
+    #   with:
+    #     name: characters.json
+    #     path: characters_release.json
+    # - name: Create Release
+    #   id: create_release
+    #   uses: actions/create-release@v1
+    #   env:
+    #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    #   with:
+    #     tag_name: release-${{ steps.date.outputs.date }}
+    #     release_name: release-${{ steps.date.outputs.date }}
+    #     draft: false
+    #     prerelease: false
+    # - name: Upload Release Asset
+    #   uses: actions/upload-release-asset@v1
+    #   env:
+    #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    #   with:
+    #     upload_url: ${{ steps.create_release.outputs.upload_url }}
+    #     asset_path: characters_release.json
+    #     asset_name: characters.json
+    #     asset_content_type: application/json
     - name: Checkout release branch
       uses: actions/checkout@v2
       with:
         ref: release
         clean: false
     - name: Rename characters_release.json to characters.json
-      run: |
-        rm characters.json
-        mv characters_release.json characters.json
+      run: mv -f ./release/* .
     - name: Commit Json
       uses: EndBug/add-and-commit@v5
       with:
         author_name: github-action
         author_email: bot@example.com
-        message: "Bot: Update characters.json"
+        message: "Update json files"
         branch: release
-        add: characters.json
+        add: "*.json"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Refresh jsdelivr cache
-      run: curl https://purge.jsdelivr.net/gh/linepro6/PrincessConnectReDiveCharactersJson@release/characters.json
+      run: |
+        curl https://purge.jsdelivr.net/gh/linepro6/PrincessConnectReDiveCharactersJson@release/characters.json
+        curl https://purge.jsdelivr.net/gh/linepro6/PrincessConnectReDiveCharactersJson@release/characters.min.json
+        curl https://purge.jsdelivr.net/gh/linepro6/PrincessConnectReDiveCharactersJson@release/cast.json
+        curl https://purge.jsdelivr.net/gh/linepro6/PrincessConnectReDiveCharactersJson@release/cast.min.json
+        curl https://purge.jsdelivr.net/gh/linepro6/PrincessConnectReDiveCharactersJson@release/names_regex.json
+        curl https://purge.jsdelivr.net/gh/linepro6/PrincessConnectReDiveCharactersJson@release/names_regex.min.json
