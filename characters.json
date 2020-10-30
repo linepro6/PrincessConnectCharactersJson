@@ -1786,6 +1786,51 @@
             "天使姐法"
         ]
     },
+    "1139": {
+        "location": null,
+        "cn_exists": false,
+        "range": null,
+        "init_star": 1,
+        "cn_name": "纺希(万圣节)",
+        "jp_name": "ツムギ(ハロウィン)",
+        "tw_name": "紡希（萬聖節）",
+        "nicknames": [
+            "鬼才",
+            "万裁",
+            "瓜裁",
+            "万圣裁缝",
+            "万圣蜘蛛侠"
+        ]
+    },
+    "1140": {
+        "location": null,
+        "cn_exists": false,
+        "range": null,
+        "init_star": 3,
+        "cn_name": "怜(万圣节)",
+        "jp_name": "レイ(ハロウィン)",
+        "tw_name": "怜（萬聖節）",
+        "nicknames": [
+            "瓜剑",
+            "瓜怜",
+            "万圣剑圣",
+            "万剑"
+        ]
+    },
+    "1141": {
+        "location": null,
+        "cn_exists": false,
+        "range": null,
+        "init_star": 3,
+        "cn_name": "茉莉(万圣节)",
+        "jp_name": "マツリ(ハロウィン)",
+        "tw_name": "茉莉（萬聖節）",
+        "nicknames": [
+            "瓜虎",
+            "万圣老虎",
+            "万圣跳跳虎"
+        ]
+    },
     "1701": {
         "location": "middle",
         "cn_exists": true,
