@@ -66,19 +66,21 @@ def generate_names_regex_json():
         for i, row in enumerate(reader):
             if i == 0 or row[0] == "":
                 continue
-            if row[4] == "":
+            if row[5] == "":
                 nicknames = []
-                nicknames += row[1:4]
-                for j in range(6, len(row)):
+                nicknames += row[2:5]
+                for j in range(7, len(row)):
                     if row[j] != "":
                         nicknames.append(row[j])
                 regex = "|".join(nicknames)
                 loose_regex = regex
                 strict_regex = regex
             else:
-                loose_regex = row[4]
-                strict_regex = row[5]
+                loose_regex = row[5]
+                strict_regex = row[6]
+            desc_game = (row[1] == "1")
             obj[int(row[0])] = {
+                "desc_game": desc_game,
                 'loose_regex': loose_regex,
                 'strict_regex': strict_regex
             }
