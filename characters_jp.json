@@ -1,70 +1,75 @@
 {
     "1001": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "ヒヨリ",
+        "location": 0,
         "range": 200,
         "init_star": 1,
+        "max_star": 6,
+        "have_weapon": true,
         "cn_name": "日和莉",
-        "jp_name": "ヒヨリ",
         "tw_name": "日和",
-        "main_nickname": "猫拳",
-        "nicknames": [
+        "main_cn_nickname": "猫拳",
+        "cn_nicknames": [
             "猫拳"
         ]
     },
     "1002": {
-        "location": "behind",
-        "cn_exists": true,
+        "name": "ユイ",
+        "location": 2,
         "range": 800,
         "init_star": 1,
+        "max_star": 6,
+        "have_weapon": true,
         "cn_name": "优衣",
-        "jp_name": "ユイ",
         "tw_name": "優衣",
-        "main_nickname": "ue",
-        "nicknames": [
+        "main_cn_nickname": "ue",
+        "cn_nicknames": [
             "ue",
             "种田",
             "u1"
         ]
     },
     "1003": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "レイ",
+        "location": 0,
         "range": 250,
         "init_star": 1,
+        "max_star": 6,
+        "have_weapon": true,
         "cn_name": "怜",
-        "jp_name": "レイ",
         "tw_name": "怜",
-        "main_nickname": "剑圣",
-        "nicknames": [
+        "main_cn_nickname": "剑圣",
+        "cn_nicknames": [
             "剑圣"
         ]
     },
     "1004": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "ミソギ",
+        "location": 0,
         "range": 205,
         "init_star": 1,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "未奏希",
-        "jp_name": "ミソギ",
         "tw_name": "禊",
-        "main_nickname": "炸弹人",
-        "nicknames": [
+        "main_cn_nickname": "炸弹人",
+        "cn_nicknames": [
             "炸弹人",
             "炸弹",
             "熊孩子"
         ]
     },
     "1005": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "マツリ",
+        "location": 0,
         "range": 185,
         "init_star": 2,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "茉莉",
-        "jp_name": "マツリ",
         "tw_name": "茉莉",
-        "main_nickname": "跳跳虎",
-        "nicknames": [
+        "main_cn_nickname": "跳跳虎",
+        "cn_nicknames": [
             "跳跳虎",
             "虎",
             "跳刀虎",
@@ -72,42 +77,45 @@
         ]
     },
     "1006": {
-        "location": "middle",
-        "cn_exists": true,
+        "name": "アカリ",
+        "location": 1,
         "range": 570,
         "init_star": 2,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "茜里",
-        "jp_name": "アカリ",
         "tw_name": "茜里",
-        "main_nickname": "妹法",
-        "nicknames": [
+        "main_cn_nickname": "妹法",
+        "cn_nicknames": [
             "妹法",
             "阿卡丽"
         ]
     },
     "1007": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "ミヤコ",
+        "location": 0,
         "range": 125,
         "init_star": 2,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "宫子",
-        "jp_name": "ミヤコ",
         "tw_name": "宫子",
-        "main_nickname": "布丁",
-        "nicknames": [
+        "main_cn_nickname": "布丁",
+        "cn_nicknames": [
             "布丁"
         ]
     },
     "1008": {
-        "location": "behind",
-        "cn_exists": true,
+        "name": "ユキ",
+        "location": 2,
         "range": 805,
         "init_star": 2,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "雪",
-        "jp_name": "ユキ",
         "tw_name": "雪",
-        "main_nickname": "雪",
-        "nicknames": [
+        "main_cn_nickname": "雪",
+        "cn_nicknames": [
             "雪",
             "雪哥",
             "镜",
@@ -116,29 +124,31 @@
         ]
     },
     "1009": {
-        "location": "middle",
-        "cn_exists": true,
+        "name": "アンナ",
+        "location": 1,
         "range": 440,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "杏奈",
-        "jp_name": "アンナ",
         "tw_name": "杏奈",
-        "main_nickname": "中二",
-        "nicknames": [
+        "main_cn_nickname": "中二",
+        "cn_nicknames": [
             "中二",
             "煤气罐"
         ]
     },
     "1010": {
-        "location": "behind",
-        "cn_exists": true,
+        "name": "マホ",
+        "location": 2,
         "range": 795,
         "init_star": 3,
+        "max_star": 6,
+        "have_weapon": true,
         "cn_name": "真步",
-        "jp_name": "マホ",
         "tw_name": "真布",
-        "main_nickname": "狐狸",
-        "nicknames": [
+        "main_cn_nickname": "狐狸",
+        "cn_nicknames": [
             "狐狸",
             "真扎",
             "maho",
@@ -146,58 +156,62 @@
         ]
     },
     "1011": {
-        "location": "behind",
-        "cn_exists": true,
+        "name": "リノ",
+        "location": 2,
         "range": 700,
         "init_star": 3,
+        "max_star": 6,
+        "have_weapon": true,
         "cn_name": "璃乃",
-        "jp_name": "リノ",
         "tw_name": "璃乃",
-        "main_nickname": "妹弓",
-        "nicknames": [
+        "main_cn_nickname": "妹弓",
+        "cn_nicknames": [
             "妹弓"
         ]
     },
     "1012": {
-        "location": "behind",
-        "cn_exists": true,
+        "name": "ハツネ",
+        "location": 2,
         "range": 755,
         "init_star": 3,
+        "max_star": 6,
+        "have_weapon": true,
         "cn_name": "初音",
-        "jp_name": "ハツネ",
         "tw_name": "初音",
-        "main_nickname": "初音",
-        "nicknames": [
+        "main_cn_nickname": "初音",
+        "cn_nicknames": [
             "星星法",
             "星法",
             "睡法"
         ]
     },
     "1013": {
-        "location": "behind",
-        "cn_exists": true,
+        "name": "ナナカ",
+        "location": 2,
         "range": 740,
         "init_star": 2,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "七七香",
-        "jp_name": "ナナカ",
         "tw_name": "七七香",
-        "main_nickname": "七七香",
-        "nicknames": [
+        "main_cn_nickname": "七七香",
+        "cn_nicknames": [
             "娜娜卡",
             "77香",
             "nanaka"
         ]
     },
     "1014": {
-        "location": "behind",
-        "cn_exists": true,
+        "name": "カスミ",
+        "location": 2,
         "range": 730,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "香澄",
-        "jp_name": "カスミ",
         "tw_name": "霞",
-        "main_nickname": "驴",
-        "nicknames": [
+        "main_cn_nickname": "驴",
+        "cn_nicknames": [
             "驴",
             "侦探",
             "驴妹",
@@ -205,29 +219,31 @@
         ]
     },
     "1015": {
-        "location": "behind",
-        "cn_exists": true,
+        "name": "ミサト",
+        "location": 2,
         "range": 735,
         "init_star": 2,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "美里",
-        "jp_name": "ミサト",
         "tw_name": "美里",
-        "main_nickname": "圣母",
-        "nicknames": [
+        "main_cn_nickname": "圣母",
+        "cn_nicknames": [
             "圣母",
             "绿帽"
         ]
     },
     "1016": {
-        "location": "behind",
-        "cn_exists": true,
+        "name": "スズナ",
+        "location": 2,
         "range": 705,
         "init_star": 2,
+        "max_star": 6,
+        "have_weapon": true,
         "cn_name": "铃奈",
-        "jp_name": "スズナ",
         "tw_name": "鈴奈",
-        "main_nickname": "暴击弓",
-        "nicknames": [
+        "main_cn_nickname": "暴击弓",
+        "cn_nicknames": [
             "暴击弓",
             "政委",
             "辣妹弓",
@@ -235,45 +251,48 @@
         ]
     },
     "1017": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "カオリ",
+        "location": 0,
         "range": 145,
         "init_star": 2,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "香织",
-        "jp_name": "カオリ",
         "tw_name": "香織",
-        "main_nickname": "狗拳",
-        "nicknames": [
+        "main_cn_nickname": "狗拳",
+        "cn_nicknames": [
             "狗拳",
             "狗子",
             "狗拳"
         ]
     },
     "1018": {
-        "location": "behind",
-        "cn_exists": true,
+        "name": "イオ",
+        "location": 2,
         "range": 715,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "伊绪",
-        "jp_name": "イオ",
         "tw_name": "伊緒",
-        "main_nickname": "老师",
-        "nicknames": [
+        "main_cn_nickname": "老师",
+        "cn_nicknames": [
             "老师",
             "魅魔",
             "依绪"
         ]
     },
     "1020": {
-        "location": "middle",
-        "cn_exists": true,
+        "name": "ミミ",
+        "location": 1,
         "range": 360,
         "init_star": 2,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "美美",
-        "jp_name": "ミミ",
         "tw_name": "美美",
-        "main_nickname": "兔子",
-        "nicknames": [
+        "main_cn_nickname": "兔子",
+        "cn_nicknames": [
             "兔子",
             "兔",
             "兔兔",
@@ -281,28 +300,30 @@
         ]
     },
     "1021": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "クルミ",
+        "location": 0,
         "range": 240,
         "init_star": 1,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "胡桃",
-        "jp_name": "クルミ",
         "tw_name": "胡桃",
-        "main_nickname": "铃铛",
-        "nicknames": [
+        "main_cn_nickname": "铃铛",
+        "cn_nicknames": [
             "铃铛"
         ]
     },
     "1022": {
-        "location": "middle",
-        "cn_exists": true,
+        "name": "ヨリ",
+        "location": 1,
         "range": 575,
         "init_star": 1,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "依里",
-        "jp_name": "ヨリ",
         "tw_name": "依里",
-        "main_nickname": "姐法",
-        "nicknames": [
+        "main_cn_nickname": "姐法",
+        "cn_nicknames": [
             "姐法",
             "姐姐法",
             "尤里",
@@ -311,149 +332,160 @@
         ]
     },
     "1023": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "アヤネ",
+        "location": 0,
         "range": 210,
         "init_star": 2,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "绫音",
-        "jp_name": "アヤネ",
         "tw_name": "綾音",
-        "main_nickname": "熊锤",
-        "nicknames": [
+        "main_cn_nickname": "熊锤",
+        "cn_nicknames": [
             "熊锤"
         ]
     },
     "1025": {
-        "location": "behind",
-        "cn_exists": true,
+        "name": "スズメ",
+        "location": 2,
         "range": 720,
         "init_star": 1,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "铃莓",
-        "jp_name": "スズメ",
         "tw_name": "鈴莓",
-        "main_nickname": "女仆",
-        "nicknames": [
+        "main_cn_nickname": "女仆",
+        "cn_nicknames": [
             "女仆",
             "雀"
         ]
     },
     "1026": {
-        "location": "middle",
-        "cn_exists": true,
+        "name": "リン",
+        "location": 1,
         "range": 550,
         "init_star": 2,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "铃",
-        "jp_name": "リン",
         "tw_name": "鈴",
-        "main_nickname": "松鼠",
-        "nicknames": [
+        "main_cn_nickname": "松鼠",
+        "cn_nicknames": [
             "松鼠"
         ]
     },
     "1027": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "エリコ",
+        "location": 0,
         "range": 230,
         "init_star": 2,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "惠理子",
-        "jp_name": "エリコ",
         "tw_name": "惠理子",
-        "main_nickname": "病娇",
-        "nicknames": [
+        "main_cn_nickname": "病娇",
+        "cn_nicknames": [
             "病娇"
         ]
     },
     "1028": {
-        "location": "middle",
-        "cn_exists": true,
+        "name": "サレン",
+        "location": 1,
         "range": 430,
         "init_star": 3,
+        "max_star": 6,
+        "have_weapon": true,
         "cn_name": "咲恋",
-        "jp_name": "サレン",
         "tw_name": "咲戀",
-        "main_nickname": "咲恋",
-        "nicknames": [
+        "main_cn_nickname": "咲恋",
+        "cn_nicknames": [
             "充电宝",
             "普电"
         ]
     },
     "1029": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "ノゾミ",
+        "location": 0,
         "range": 160,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "望",
-        "jp_name": "ノゾミ",
         "tw_name": "望",
-        "main_nickname": "偶像",
-        "nicknames": [
+        "main_cn_nickname": "偶像",
+        "cn_nicknames": [
             "偶像"
         ]
     },
     "1030": {
-        "location": "middle",
-        "cn_exists": true,
+        "name": "ニノン",
+        "location": 1,
         "range": 415,
         "init_star": 3,
+        "max_star": 6,
+        "have_weapon": true,
         "cn_name": "妮侬",
-        "jp_name": "ニノン",
         "tw_name": "妮諾",
-        "main_nickname": "扇子",
-        "nicknames": [
+        "main_cn_nickname": "扇子",
+        "cn_nicknames": [
             "扇子",
             "妮诺",
             "将军"
         ]
     },
     "1031": {
-        "location": "middle",
-        "cn_exists": true,
+        "name": "シノブ",
+        "location": 1,
         "range": 365,
         "init_star": 2,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "忍",
-        "jp_name": "シノブ",
         "tw_name": "忍",
-        "main_nickname": "忍",
-        "nicknames": [
+        "main_cn_nickname": "忍",
+        "cn_nicknames": [
             "鬼父"
         ]
     },
     "1032": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "アキノ",
+        "location": 0,
         "range": 180,
         "init_star": 3,
+        "max_star": 6,
+        "have_weapon": true,
         "cn_name": "秋乃",
-        "jp_name": "アキノ",
         "tw_name": "秋乃",
-        "main_nickname": "哈哈剑",
-        "nicknames": [
+        "main_cn_nickname": "哈哈剑",
+        "cn_nicknames": [
             "哈哈剑"
         ]
     },
     "1033": {
-        "location": "middle",
-        "cn_exists": true,
+        "name": "マヒル",
+        "location": 1,
         "range": 395,
         "init_star": 2,
+        "max_star": 6,
+        "have_weapon": true,
         "cn_name": "真阳",
-        "jp_name": "マヒル",
         "tw_name": "真陽",
-        "main_nickname": "奶牛",
-        "nicknames": [
+        "main_cn_nickname": "奶牛",
+        "cn_nicknames": [
             "奶牛"
         ]
     },
     "1034": {
-        "location": "middle",
-        "cn_exists": true,
+        "name": "ユカリ",
+        "location": 1,
         "range": 405,
         "init_star": 1,
+        "max_star": 6,
+        "have_weapon": true,
         "cn_name": "由加莉",
-        "jp_name": "ユカリ",
         "tw_name": "優花梨",
-        "main_nickname": "黄骑",
-        "nicknames": [
+        "main_cn_nickname": "黄骑",
+        "cn_nicknames": [
             "黄骑",
             "奶骑",
             "酒鬼",
@@ -461,58 +493,62 @@
         ]
     },
     "1036": {
-        "location": "behind",
-        "cn_exists": true,
+        "name": "キョウカ",
+        "location": 2,
         "range": 810,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "镜华",
-        "jp_name": "キョウカ",
         "tw_name": "鏡華",
-        "main_nickname": "xcw",
-        "nicknames": [
+        "main_cn_nickname": "xcw",
+        "cn_nicknames": [
             "xcw",
             "小仓唯",
             "喷水萝莉"
         ]
     },
     "1037": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "トモ",
+        "location": 0,
         "range": 220,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "智",
-        "jp_name": "トモ",
         "tw_name": "智",
-        "main_nickname": "智",
-        "nicknames": [
+        "main_cn_nickname": "智",
+        "cn_nicknames": [
             "tomo",
             "卜毛"
         ]
     },
     "1038": {
-        "location": "behind",
-        "cn_exists": true,
+        "name": "シオリ",
+        "location": 2,
         "range": 710,
         "init_star": 2,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "栞",
-        "jp_name": "シオリ",
         "tw_name": "栞",
-        "main_nickname": "tp弓",
-        "nicknames": [
+        "main_cn_nickname": "tp弓",
+        "cn_nicknames": [
             "tp弓",
             "白虎弓"
         ]
     },
     "1040": {
-        "location": "behind",
-        "cn_exists": true,
+        "name": "アオイ",
+        "location": 2,
         "range": 785,
         "init_star": 1,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "碧",
-        "jp_name": "アオイ",
         "tw_name": "碧",
-        "main_nickname": "香菜弓",
-        "nicknames": [
+        "main_cn_nickname": "香菜弓",
+        "cn_nicknames": [
             "香菜弓",
             "香菜",
             "毒弓",
@@ -520,29 +556,31 @@
         ]
     },
     "1042": {
-        "location": "behind",
-        "cn_exists": true,
+        "name": "チカ",
+        "location": 2,
         "range": 790,
         "init_star": 2,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "千歌",
-        "jp_name": "チカ",
         "tw_name": "千歌",
-        "main_nickname": "千歌",
-        "nicknames": [
+        "main_cn_nickname": "千歌",
+        "cn_nicknames": [
             "绿毛奶",
             "契卡"
         ]
     },
     "1043": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "マコト",
+        "location": 0,
         "range": 165,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "真琴",
-        "jp_name": "マコト",
         "tw_name": "真琴",
-        "main_nickname": "狼",
-        "nicknames": [
+        "main_cn_nickname": "狼",
+        "cn_nicknames": [
             "狼",
             "狼姐",
             "狼妹",
@@ -550,180 +588,193 @@
         ]
     },
     "1044": {
-        "location": "middle",
-        "cn_exists": true,
+        "name": "イリヤ",
+        "location": 1,
         "range": 425,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "伊莉雅",
-        "jp_name": "イリヤ",
         "tw_name": "伊莉亞",
-        "main_nickname": "yly",
-        "nicknames": [
+        "main_cn_nickname": "yly",
+        "cn_nicknames": [
             "yly",
             "伊利亚",
             "那个女人"
         ]
     },
     "1045": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "クウカ",
+        "location": 0,
         "range": 130,
         "init_star": 2,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "空花",
-        "jp_name": "クウカ",
         "tw_name": "空花",
-        "main_nickname": "空花",
-        "nicknames": [
+        "main_cn_nickname": "空花",
+        "cn_nicknames": [
             "抖m"
         ]
     },
     "1046": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "タマキ",
+        "location": 0,
         "range": 215,
         "init_star": 2,
+        "max_star": 6,
+        "have_weapon": true,
         "cn_name": "珠希",
-        "jp_name": "タマキ",
         "tw_name": "珠希",
-        "main_nickname": "猫剑",
-        "nicknames": [
+        "main_cn_nickname": "猫剑",
+        "cn_nicknames": [
             "猫剑"
         ]
     },
     "1047": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "ジュン",
+        "location": 0,
         "range": 135,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "纯",
-        "jp_name": "ジュン",
         "tw_name": "純",
-        "main_nickname": "黑骑",
-        "nicknames": [
+        "main_cn_nickname": "黑骑",
+        "cn_nicknames": [
             "黑骑",
             "saber"
         ]
     },
     "1048": {
-        "location": "middle",
-        "cn_exists": true,
+        "name": "ミフユ",
+        "location": 1,
         "range": 420,
         "init_star": 2,
+        "max_star": 6,
+        "have_weapon": true,
         "cn_name": "美冬",
-        "jp_name": "ミフユ",
         "tw_name": "美东",
-        "main_nickname": "子龙",
-        "nicknames": [
+        "main_cn_nickname": "子龙",
+        "cn_nicknames": [
             "子龙"
         ]
     },
     "1049": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "シズル",
+        "location": 0,
         "range": 285,
         "init_star": 3,
+        "max_star": 6,
+        "have_weapon": true,
         "cn_name": "静流",
-        "jp_name": "シズル",
         "tw_name": "静流",
-        "main_nickname": "姐姐",
-        "nicknames": [
+        "main_cn_nickname": "姐姐",
+        "cn_nicknames": [
             "姐姐"
         ]
     },
     "1050": {
-        "location": "behind",
-        "cn_exists": true,
+        "name": "ミサキ",
+        "location": 2,
         "range": 760,
         "init_star": 1,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "美咲",
-        "jp_name": "ミサキ",
         "tw_name": "美咲",
-        "main_nickname": "大眼",
-        "nicknames": [
+        "main_cn_nickname": "大眼",
+        "cn_nicknames": [
             "大眼",
             "眼球法"
         ]
     },
     "1051": {
-        "location": "middle",
-        "cn_exists": true,
+        "name": "ミツキ",
+        "location": 1,
         "range": 565,
         "init_star": 2,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "深月",
-        "jp_name": "ミツキ",
         "tw_name": "深月",
-        "main_nickname": "深月",
-        "nicknames": [
+        "main_cn_nickname": "深月",
+        "cn_nicknames": [
             "眼罩",
             "抖s"
         ]
     },
     "1052": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "リマ",
+        "location": 0,
         "range": 105,
         "init_star": 1,
+        "max_star": 6,
+        "have_weapon": true,
         "cn_name": "莉玛",
-        "jp_name": "リマ",
         "tw_name": "莉瑪",
-        "main_nickname": "羊驼",
-        "nicknames": [
+        "main_cn_nickname": "羊驼",
+        "cn_nicknames": [
             "羊驼",
             "草泥马"
         ]
     },
     "1053": {
-        "location": "middle",
-        "cn_exists": true,
+        "name": "モニカ",
+        "location": 1,
         "range": 410,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "莫妮卡",
-        "jp_name": "モニカ",
         "tw_name": "莫妮卡",
-        "main_nickname": "毛二力",
-        "nicknames": [
+        "main_cn_nickname": "毛二力",
+        "cn_nicknames": [
             "毛二力",
             "莫尼卡"
         ]
     },
     "1054": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "ツムギ",
+        "location": 0,
         "range": 195,
         "init_star": 2,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "纺希",
-        "jp_name": "ツムギ",
         "tw_name": "紡希",
-        "main_nickname": "裁缝",
-        "nicknames": [
+        "main_cn_nickname": "裁缝",
+        "cn_nicknames": [
             "裁缝"
         ]
     },
     "1055": {
-        "location": "middle",
-        "cn_exists": true,
+        "name": "アユミ",
+        "location": 1,
         "range": 510,
         "init_star": 1,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "步未",
-        "jp_name": "アユミ",
         "tw_name": "步未",
-        "main_nickname": "路人妹",
-        "nicknames": [
+        "main_cn_nickname": "路人妹",
+        "cn_nicknames": [
             "路人妹",
             "女路人",
             "步美"
         ]
     },
     "1056": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "ルカ",
+        "location": 0,
         "range": 158,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "流夏",
-        "jp_name": "ルカ",
         "tw_name": "卢卡",
-        "main_nickname": "流夏",
-        "nicknames": [
+        "main_cn_nickname": "流夏",
+        "cn_nicknames": [
             "露卡",
             "ruka",
             "luka",
@@ -732,15 +783,16 @@
         ]
     },
     "1057": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "ジータ",
+        "location": 0,
         "range": 245,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "姬塔",
-        "jp_name": "ジータ",
         "tw_name": "吉塔",
-        "main_nickname": "姬塔",
-        "nicknames": [
+        "main_cn_nickname": "姬塔",
+        "cn_nicknames": [
             "吉他",
             "团长",
             "qks",
@@ -748,30 +800,32 @@
         ]
     },
     "1058": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "ペコリーヌ",
+        "location": 0,
         "range": 155,
         "init_star": 1,
+        "max_star": 6,
+        "have_weapon": true,
         "cn_name": "佩可莉姆",
-        "jp_name": "ペコリーヌ",
         "tw_name": "貪吃佩可",
-        "main_nickname": "佩可",
-        "nicknames": [
+        "main_cn_nickname": "佩可",
+        "cn_nicknames": [
             "佩可",
             "吃货",
             "贪吃佩可"
         ]
     },
     "1059": {
-        "location": "middle",
-        "cn_exists": true,
+        "name": "コッコロ",
+        "location": 1,
         "range": 500,
         "init_star": 1,
+        "max_star": 6,
+        "have_weapon": true,
         "cn_name": "可可萝",
-        "jp_name": "コッコロ",
         "tw_name": "可可蘿",
-        "main_nickname": "妈",
-        "nicknames": [
+        "main_cn_nickname": "妈",
+        "cn_nicknames": [
             "妈",
             "kkr",
             "白毛",
@@ -780,45 +834,48 @@
         ]
     },
     "1060": {
-        "location": "behind",
-        "cn_exists": true,
+        "name": "キャル",
+        "location": 2,
         "range": 750,
         "init_star": 1,
+        "max_star": 6,
+        "have_weapon": true,
         "cn_name": "凯露",
-        "jp_name": "キャル",
         "tw_name": "凯留",
-        "main_nickname": "黑猫",
-        "nicknames": [
+        "main_cn_nickname": "黑猫",
+        "cn_nicknames": [
             "黑猫",
             "臭鼬",
             "普黑"
         ]
     },
     "1061": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "ムイミ",
+        "location": 0,
         "range": 162,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "矛依未",
-        "jp_name": "ムイミ",
         "tw_name": "矛依未",
-        "main_nickname": "511",
-        "nicknames": [
+        "main_cn_nickname": "511",
+        "cn_nicknames": [
             "511",
             "夏娜",
             "无意义"
         ]
     },
     "1063": {
-        "location": "behind",
-        "cn_exists": true,
+        "name": "アリサ",
+        "location": 2,
         "range": 625,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "亚里莎",
-        "jp_name": "アリサ",
         "tw_name": "亞里莎",
-        "main_nickname": "yls",
-        "nicknames": [
+        "main_cn_nickname": "yls",
+        "cn_nicknames": [
             "yls",
             "瞎子",
             "鸭梨瞎",
@@ -827,15 +884,16 @@
         ]
     },
     "1065": {
-        "location": "front",
-        "cn_exists": false,
+        "name": "カヤ",
+        "location": 0,
         "range": 168,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "嘉夜",
-        "jp_name": "カヤ",
         "tw_name": "嘉夜",
-        "main_nickname": "卡娅",
-        "nicknames": [
+        "main_cn_nickname": "卡娅",
+        "cn_nicknames": [
             "卡娅",
             "卡雅",
             "卡亚",
@@ -843,70 +901,46 @@
         ]
     },
     "1066": {
-        "location": "front",
-        "cn_exists": false,
+        "name": "イノリ",
+        "location": 0,
         "range": 197,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "祈梨",
-        "jp_name": "イノリ",
         "tw_name": "祈梨",
-        "main_nickname": "梨老八",
-        "nicknames": [
+        "main_cn_nickname": "梨老八",
+        "cn_nicknames": [
             "梨老八",
             "祈"
         ]
     },
-    "1067": {
-        "location": null,
-        "cn_exists": false,
-        "range": null,
-        "init_star": null,
-        "cn_name": "穗希",
-        "jp_name": "ホマレ",
-        "tw_name": "穗希",
-        "main_nickname": "誉",
-        "nicknames": [
-            "誉"
-        ]
-    },
     "1068": {
-        "location": "middle",
-        "cn_exists": false,
+        "name": "ラビリスタ",
+        "location": 1,
         "range": 560,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "拉比林斯塔",
-        "jp_name": "ラビリスタ",
         "tw_name": "拉比林斯塔",
-        "main_nickname": "晶",
-        "nicknames": [
+        "main_cn_nickname": "晶",
+        "cn_nicknames": [
             "晶",
             "迷宫女王"
         ]
     },
-    "1069": {
-        "location": null,
-        "cn_exists": false,
-        "range": null,
-        "init_star": null,
-        "cn_name": "真那",
-        "jp_name": "マナ",
-        "tw_name": "真那",
-        "main_nickname": "霸瞳",
-        "nicknames": [
-            "霸瞳",
-            "霸瞳皇帝"
-        ]
-    },
     "1070": {
-        "location": "behind",
-        "cn_exists": false,
+        "name": "ネネカ",
+        "location": 2,
         "range": 660,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "似似花",
-        "jp_name": "ネネカ",
         "tw_name": "似似花",
-        "main_nickname": "nnk",
-        "nicknames": [
+        "main_cn_nickname": "nnk",
+        "cn_nicknames": [
             "nnk",
             "大妃",
             "448",
@@ -918,44 +952,33 @@
         ]
     },
     "1071": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "クリスティーナ",
+        "location": 0,
         "range": 290,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "克里斯蒂娜",
-        "jp_name": "クリスティーナ",
         "tw_name": "克莉絲提娜",
-        "main_nickname": "克总",
-        "nicknames": [
+        "main_cn_nickname": "克总",
+        "cn_nicknames": [
             "克总",
             "女帝",
             "克",
             "克姐"
         ]
     },
-    "1073": {
-        "location": null,
-        "cn_exists": false,
-        "range": null,
-        "init_star": null,
-        "cn_name": "拉基拉基",
-        "jp_name": "ラジニカーント",
-        "tw_name": "拉基拉基",
-        "main_nickname": "跳跃王",
-        "nicknames": [
-            "跳跃王"
-        ]
-    },
     "1075": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "ペコリーヌ（サマー）",
+        "location": 0,
         "range": 235,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "佩可莉姆（夏日）",
-        "jp_name": "ペコリーヌ（サマー）",
         "tw_name": "貪吃佩可（夏日）",
-        "main_nickname": "水吃",
-        "nicknames": [
+        "main_cn_nickname": "水吃",
+        "cn_nicknames": [
             "水吃",
             "水吃货",
             "泼妇",
@@ -963,44 +986,47 @@
         ]
     },
     "1076": {
-        "location": "middle",
-        "cn_exists": true,
+        "name": "コッコロ（サマー）",
+        "location": 1,
         "range": 535,
         "init_star": 1,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "可可萝（夏日）",
-        "jp_name": "コッコロ（サマー）",
         "tw_name": "可可蘿（夏日）",
-        "main_nickname": "水妈",
-        "nicknames": [
+        "main_cn_nickname": "水妈",
+        "cn_nicknames": [
             "水妈",
             "水白",
             "夏日可可萝"
         ]
     },
     "1077": {
-        "location": "behind",
-        "cn_exists": true,
+        "name": "スズメ（サマー）",
+        "location": 2,
         "range": 775,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "铃莓（夏日）",
-        "jp_name": "スズメ（サマー）",
         "tw_name": "鈴莓（夏日）",
-        "main_nickname": "水女仆",
-        "nicknames": [
+        "main_cn_nickname": "水女仆",
+        "cn_nicknames": [
             "水女仆",
             "夏日铃莓"
         ]
     },
     "1078": {
-        "location": "behind",
-        "cn_exists": true,
+        "name": "キャル（サマー）",
+        "location": 2,
         "range": 780,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "凯露（夏日）",
-        "jp_name": "キャル（サマー）",
         "tw_name": "凯留（夏日）",
-        "main_nickname": "水黑",
-        "nicknames": [
+        "main_cn_nickname": "水黑",
+        "cn_nicknames": [
             "水黑",
             "潶",
             "水黑猫",
@@ -1008,45 +1034,48 @@
         ]
     },
     "1079": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "タマキ（サマー）",
+        "location": 0,
         "range": 225,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "珠希（夏日）",
-        "jp_name": "タマキ（サマー）",
         "tw_name": "珠希（夏日）",
-        "main_nickname": "水猫剑",
-        "nicknames": [
+        "main_cn_nickname": "水猫剑",
+        "cn_nicknames": [
             "水猫剑",
             "水猫",
             "夏日珠希"
         ]
     },
     "1080": {
-        "location": "middle",
-        "cn_exists": true,
+        "name": "ミフユ（サマー）",
+        "location": 1,
         "range": 495,
         "init_star": 1,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "美冬（夏日）",
-        "jp_name": "ミフユ（サマー）",
         "tw_name": "美冬（夏日）",
-        "main_nickname": "水美冬",
-        "nicknames": [
+        "main_cn_nickname": "水美冬",
+        "cn_nicknames": [
             "水美冬",
             "水子龙",
             "夏日美冬"
         ]
     },
     "1081": {
-        "location": "middle",
-        "cn_exists": true,
+        "name": "シノブ（ハロウィン）",
+        "location": 1,
         "range": 440,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "忍（万圣节）",
-        "jp_name": "シノブ（ハロウィン）",
         "tw_name": "忍（萬聖節）",
-        "main_nickname": "瓜忍",
-        "nicknames": [
+        "main_cn_nickname": "瓜忍",
+        "cn_nicknames": [
             "瓜忍",
             "万圣忍",
             "鬼忍",
@@ -1054,15 +1083,16 @@
         ]
     },
     "1082": {
-        "location": "middle",
-        "cn_exists": true,
+        "name": "ミヤコ（ハロウィン）",
+        "location": 1,
         "range": 590,
         "init_star": 1,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "宫子（万圣节）",
-        "jp_name": "ミヤコ（ハロウィン）",
         "tw_name": "宮子（萬聖節）",
-        "main_nickname": "狼布丁",
-        "nicknames": [
+        "main_cn_nickname": "狼布丁",
+        "cn_nicknames": [
             "狼布丁",
             "万圣布丁",
             "狼丁",
@@ -1070,15 +1100,16 @@
         ]
     },
     "1083": {
-        "location": "behind",
-        "cn_exists": true,
+        "name": "ミサキ（ハロウィン）",
+        "location": 2,
         "range": 815,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "美咲（万圣节）",
-        "jp_name": "ミサキ（ハロウィン）",
         "tw_name": "美咲（萬聖節）",
-        "main_nickname": "瓜眼",
-        "nicknames": [
+        "main_cn_nickname": "瓜眼",
+        "cn_nicknames": [
             "瓜眼",
             "万圣美咲",
             "万圣大眼",
@@ -1086,15 +1117,16 @@
         ]
     },
     "1084": {
-        "location": "behind",
-        "cn_exists": true,
+        "name": "チカ（クリスマス）",
+        "location": 2,
         "range": 770,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "千歌（圣诞节）",
-        "jp_name": "チカ（クリスマス）",
         "tw_name": "千歌（聖誕節）",
-        "main_nickname": "圣千",
-        "nicknames": [
+        "main_cn_nickname": "圣千",
+        "cn_nicknames": [
             "圣千",
             "圣诞千歌",
             "圣歌",
@@ -1102,45 +1134,48 @@
         ]
     },
     "1085": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "クルミ（クリスマス）",
+        "location": 0,
         "range": 295,
         "init_star": 1,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "胡桃（圣诞节）",
-        "jp_name": "クルミ（クリスマス）",
         "tw_name": "胡桃（聖誕節）",
-        "main_nickname": "圣诞胡桃",
-        "nicknames": [
+        "main_cn_nickname": "圣诞胡桃",
+        "cn_nicknames": [
             "圣诞胡桃",
             "圣诞铃铛",
             "圣诞节胡桃"
         ]
     },
     "1086": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "アヤネ（クリスマス）",
+        "location": 0,
         "range": 190,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "绫音（圣诞节）",
-        "jp_name": "アヤネ（クリスマス）",
         "tw_name": "綾音（聖誕節）",
-        "main_nickname": "圣诞熊锤",
-        "nicknames": [
+        "main_cn_nickname": "圣诞熊锤",
+        "cn_nicknames": [
             "圣诞熊锤",
             "圣锤",
             "圣诞节绫音"
         ]
     },
     "1087": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "ヒヨリ（ニューイヤー）",
+        "location": 0,
         "range": 170,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "日和莉（新年）",
-        "jp_name": "ヒヨリ（ニューイヤー）",
         "tw_name": "日和（新年）",
-        "main_nickname": "春猫",
-        "nicknames": [
+        "main_cn_nickname": "春猫",
+        "cn_nicknames": [
             "春猫",
             "新年猫拳",
             "新年日和",
@@ -1149,15 +1184,16 @@
         ]
     },
     "1088": {
-        "location": "behind",
-        "cn_exists": true,
+        "name": "ユイ（ニューイヤー）",
+        "location": 2,
         "range": 745,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "优衣（新年）",
-        "jp_name": "ユイ（ニューイヤー）",
         "tw_name": "優衣（新年）",
-        "main_nickname": "春田",
-        "nicknames": [
+        "main_cn_nickname": "春田",
+        "cn_nicknames": [
             "春田",
             "新年yui",
             "春优",
@@ -1166,15 +1202,16 @@
         ]
     },
     "1089": {
-        "location": "front",
-        "cn_exists": true,
+        "name": "レイ（ニューイヤー）",
+        "location": 0,
         "range": 153,
         "init_star": 1,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "怜（新年）",
-        "jp_name": "レイ（ニューイヤー）",
         "tw_name": "怜（新年）",
-        "main_nickname": "春剑",
-        "nicknames": [
+        "main_cn_nickname": "春剑",
+        "cn_nicknames": [
             "春剑",
             "新春怜",
             "新春剑",
@@ -1183,15 +1220,16 @@
         ]
     },
     "1090": {
-        "location": "front",
-        "cn_exists": false,
+        "name": "エリコ（バレンタイン）",
+        "location": 0,
         "range": 187,
         "init_star": 1,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "惠理子（情人节）",
-        "jp_name": "エリコ（バレンタイン）",
         "tw_name": "惠理子（情人節）",
-        "main_nickname": "情病",
-        "nicknames": [
+        "main_cn_nickname": "情病",
+        "cn_nicknames": [
             "情病",
             "情人节惠理子",
             "情人节病娇",
@@ -1200,15 +1238,16 @@
         ]
     },
     "1091": {
-        "location": "middle",
-        "cn_exists": false,
+        "name": "シズル（バレンタイン）",
+        "location": 1,
         "range": 385,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "静流（情人节）",
-        "jp_name": "シズル（バレンタイン）",
         "tw_name": "靜流（情人節）",
-        "main_nickname": "情姐",
-        "nicknames": [
+        "main_cn_nickname": "情姐",
+        "cn_nicknames": [
             "情姐",
             "情人节静流",
             "情人节姐姐",
@@ -1217,52 +1256,56 @@
         ]
     },
     "1092": {
-        "location": "behind",
-        "cn_exists": true,
+        "name": "アン",
+        "location": 2,
         "range": 630,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "安",
-        "jp_name": "アン",
         "tw_name": "安",
-        "main_nickname": "安",
-        "nicknames": [
+        "main_cn_nickname": "安",
+        "cn_nicknames": [
             "55kg"
         ]
     },
     "1093": {
-        "location": "behind",
-        "cn_exists": true,
+        "name": "ルゥ",
+        "location": 2,
         "range": 640,
         "init_star": 1,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "露",
-        "jp_name": "ルゥ",
         "tw_name": "露",
-        "main_nickname": "露",
-        "nicknames": []
+        "main_cn_nickname": "露",
+        "cn_nicknames": []
     },
     "1094": {
-        "location": "middle",
-        "cn_exists": false,
+        "name": "グレア",
+        "location": 1,
         "range": 525,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "古蕾雅",
-        "jp_name": "グレア",
         "tw_name": "古蕾婭",
-        "main_nickname": "龙姬",
-        "nicknames": [
+        "main_cn_nickname": "龙姬",
+        "cn_nicknames": [
             "龙姬"
         ]
     },
     "1095": {
-        "location": "front",
-        "cn_exists": false,
+        "name": "クウカ（オーエド）",
+        "location": 0,
         "range": 140,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "空花（大江户）",
-        "jp_name": "クウカ（オーエド）",
         "tw_name": "大江m",
-        "main_nickname": "江户空花",
-        "nicknames": [
+        "main_cn_nickname": "江户空花",
+        "cn_nicknames": [
             "江户空花",
             "江户抖m",
             "江户m",
@@ -1273,66 +1316,71 @@
         ]
     },
     "1096": {
-        "location": "front",
-        "cn_exists": false,
+        "name": "ニノン（オーエド）",
+        "location": 0,
         "range": 175,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "妮侬（大江户）",
-        "jp_name": "ニノン（オーエド）",
         "tw_name": "妮諾（大江戶）",
-        "main_nickname": "江户扇子",
-        "nicknames": [
+        "main_cn_nickname": "江户扇子",
+        "cn_nicknames": [
             "江户扇子",
             "忍扇",
             "大江户妮诺"
         ]
     },
     "1097": {
-        "location": "middle",
-        "cn_exists": false,
+        "name": "レム",
+        "location": 1,
         "range": 540,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "蕾姆",
-        "jp_name": "レム",
         "tw_name": "雷姆",
-        "main_nickname": "蕾姆",
-        "nicknames": []
+        "main_cn_nickname": "蕾姆",
+        "cn_nicknames": []
     },
     "1098": {
-        "location": "middle",
-        "cn_exists": false,
+        "name": "ラム",
+        "location": 1,
         "range": 545,
         "init_star": 1,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "拉姆",
-        "jp_name": "ラム",
         "tw_name": "拉姆",
-        "main_nickname": "拉姆",
-        "nicknames": []
+        "main_cn_nickname": "拉姆",
+        "cn_nicknames": []
     },
     "1099": {
-        "location": "behind",
-        "cn_exists": false,
+        "name": "エミリア",
+        "location": 2,
         "range": 725,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "艾米莉亚",
-        "jp_name": "エミリア",
         "tw_name": "愛蜜莉雅",
-        "main_nickname": "emt",
-        "nicknames": [
+        "main_cn_nickname": "emt",
+        "cn_nicknames": [
             "emt",
             "爱蜜莉雅"
         ]
     },
     "1100": {
-        "location": "behind",
-        "cn_exists": false,
+        "name": "スズナ（サマー）",
+        "location": 2,
         "range": 705,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "铃奈（夏日）",
-        "jp_name": "スズナ（サマー）",
         "tw_name": "鈴奈（夏日）",
-        "main_nickname": "水暴",
-        "nicknames": [
+        "main_cn_nickname": "水暴",
+        "cn_nicknames": [
             "水暴",
             "水暴弓",
             "瀑",
@@ -1340,15 +1388,16 @@
         ]
     },
     "1101": {
-        "location": "behind",
-        "cn_exists": false,
+        "name": "イオ（サマー）",
+        "location": 2,
         "range": 715,
         "init_star": 1,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "伊绪（夏日）",
-        "jp_name": "イオ（サマー）",
         "tw_name": "伊緒（夏日）",
-        "main_nickname": "水魅魔",
-        "nicknames": [
+        "main_cn_nickname": "水魅魔",
+        "cn_nicknames": [
             "水魅魔",
             "水老师",
             "泳装魅魔",
@@ -1357,15 +1406,16 @@
         ]
     },
     "1103": {
-        "location": "middle",
-        "cn_exists": false,
+        "name": "サレン（サマー）",
+        "location": 1,
         "range": 585,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "咲恋（夏日）",
-        "jp_name": "サレン（サマー）",
         "tw_name": "咲戀（夏日）",
-        "main_nickname": "水电站",
-        "nicknames": [
+        "main_cn_nickname": "水电站",
+        "cn_nicknames": [
             "水电站",
             "水充",
             "水电",
@@ -1374,44 +1424,47 @@
         ]
     },
     "1104": {
-        "location": "front",
-        "cn_exists": false,
+        "name": "マコト（サマー）",
+        "location": 0,
         "range": 180,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "真琴（夏日）",
-        "jp_name": "マコト（サマー）",
         "tw_name": "真琴（夏日）",
-        "main_nickname": "水狼",
-        "nicknames": [
+        "main_cn_nickname": "水狼",
+        "cn_nicknames": [
             "水狼",
             "浪",
             "夏日真琴"
         ]
     },
     "1105": {
-        "location": "middle",
-        "cn_exists": false,
+        "name": "カオリ（サマー）",
+        "location": 1,
         "range": 425,
         "init_star": 1,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "香织（夏日）",
-        "jp_name": "カオリ（サマー）",
         "tw_name": "香織（夏日）",
-        "main_nickname": "水狗",
-        "nicknames": [
+        "main_cn_nickname": "水狗",
+        "cn_nicknames": [
             "水狗",
             "夏日香织"
         ]
     },
     "1106": {
-        "location": "behind",
-        "cn_exists": false,
+        "name": "マホ（サマー）",
+        "location": 2,
         "range": 792,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "真步（夏日）",
-        "jp_name": "マホ（サマー）",
         "tw_name": "真步（夏日）",
-        "main_nickname": "水狐狸",
-        "nicknames": [
+        "main_cn_nickname": "水狐狸",
+        "cn_nicknames": [
             "水狐狸",
             "水真步",
             "水狐",
@@ -1420,71 +1473,76 @@
         ]
     },
     "1107": {
-        "location": "behind",
-        "cn_exists": false,
+        "name": "アオイ（編入生）",
+        "location": 2,
         "range": 680,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "碧（插班生）",
-        "jp_name": "アオイ（編入生）",
         "tw_name": "碧（插班生）",
-        "main_nickname": "生菜",
-        "nicknames": [
+        "main_cn_nickname": "生菜",
+        "cn_nicknames": [
             "生菜",
             "插班生碧"
         ]
     },
     "1108": {
-        "location": "front",
-        "cn_exists": false,
+        "name": "クロエ",
+        "location": 0,
         "range": 185,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "克萝伊",
-        "jp_name": "クロエ",
         "tw_name": "克蘿依",
-        "main_nickname": "华哥",
-        "nicknames": [
+        "main_cn_nickname": "华哥",
+        "cn_nicknames": [
             "华哥",
             "花子",
             "黑江"
         ]
     },
     "1109": {
-        "location": "front",
-        "cn_exists": false,
+        "name": "チエル",
+        "location": 0,
         "range": 222,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "琪爱儿",
-        "jp_name": "チエル",
         "tw_name": "琪愛兒",
-        "main_nickname": "切噜",
-        "nicknames": [
+        "main_cn_nickname": "切噜",
+        "cn_nicknames": [
             "切噜",
             "知惠"
         ]
     },
     "1110": {
-        "location": "behind",
-        "cn_exists": false,
+        "name": "ユニ",
+        "location": 2,
         "range": 807,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "优妮",
-        "jp_name": "ユニ",
         "tw_name": "優妮",
-        "main_nickname": "优妮",
-        "nicknames": [
+        "main_cn_nickname": "优妮",
+        "cn_nicknames": [
             "优妮"
         ]
     },
     "1111": {
-        "location": "behind",
-        "cn_exists": false,
+        "name": "キョウカ（ハロウィン）",
+        "location": 2,
         "range": 820,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "镜华（万圣节）",
-        "jp_name": "キョウカ（ハロウィン）",
         "tw_name": "鏡華（萬聖節）",
-        "main_nickname": "万圣xcw",
-        "nicknames": [
+        "main_cn_nickname": "万圣xcw",
+        "cn_nicknames": [
             "万圣xcw",
             "万圣唯",
             "猫唯",
@@ -1493,15 +1551,16 @@
         ]
     },
     "1112": {
-        "location": "front",
-        "cn_exists": false,
+        "name": "ミソギ（ハロウィン）",
+        "location": 0,
         "range": 212,
         "init_star": 1,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "未奏希（万圣节）",
-        "jp_name": "ミソギ（ハロウィン）",
         "tw_name": "禊（萬聖節）",
-        "main_nickname": "万圣炸弹",
-        "nicknames": [
+        "main_cn_nickname": "万圣炸弹",
+        "cn_nicknames": [
             "万圣炸弹",
             "万圣炸弹人",
             "万圣未奏希",
@@ -1511,15 +1570,16 @@
         ]
     },
     "1113": {
-        "location": "middle",
-        "cn_exists": false,
+        "name": "ミミ（ハロウィン）",
+        "location": 1,
         "range": 365,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "美美（万圣节）",
-        "jp_name": "ミミ（ハロウィン）",
         "tw_name": "美美（萬聖節）",
-        "main_nickname": "万圣兔",
-        "nicknames": [
+        "main_cn_nickname": "万圣兔",
+        "cn_nicknames": [
             "万圣兔",
             "万圣兔兔",
             "万圣兔子",
@@ -1527,26 +1587,28 @@
         ]
     },
     "1114": {
-        "location": "behind",
-        "cn_exists": false,
+        "name": "ルナ",
+        "location": 2,
         "range": 765,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": true,
         "cn_name": "露娜",
-        "jp_name": "ルナ",
         "tw_name": "露娜",
-        "main_nickname": "露娜",
-        "nicknames": []
+        "main_cn_nickname": "露娜",
+        "cn_nicknames": []
     },
     "1115": {
-        "location": "front",
-        "cn_exists": false,
+        "name": "クリスティーナ（クリスマス）",
+        "location": 0,
         "range": 265,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "克里斯蒂娜（圣诞节）",
-        "jp_name": "クリスティーナ（クリスマス）",
         "tw_name": "克莉絲提娜（聖誕節）",
-        "main_nickname": "圣克",
-        "nicknames": [
+        "main_cn_nickname": "圣克",
+        "cn_nicknames": [
             "圣克",
             "圣诞克姐",
             "圣诞克总",
@@ -1555,30 +1617,32 @@
         ]
     },
     "1116": {
-        "location": "middle",
-        "cn_exists": false,
+        "name": "ノゾミ（クリスマス）",
+        "location": 1,
         "range": 418,
         "init_star": 1,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "望（圣诞节）",
-        "jp_name": "ノゾミ（クリスマス）",
         "tw_name": "望（聖誕節）",
-        "main_nickname": "圣诞偶像",
-        "nicknames": [
+        "main_cn_nickname": "圣诞偶像",
+        "cn_nicknames": [
             "圣诞偶像",
             "圣诞望",
             "圣诞节望"
         ]
     },
     "1117": {
-        "location": "front",
-        "cn_exists": false,
+        "name": "イリヤ（クリスマス）",
+        "location": 0,
         "range": 255,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "伊莉雅（圣诞节）",
-        "jp_name": "イリヤ（クリスマス）",
         "tw_name": "伊莉亞（聖誕節）",
-        "main_nickname": "圣诞yly",
-        "nicknames": [
+        "main_cn_nickname": "圣诞yly",
+        "cn_nicknames": [
             "圣诞yly",
             "圣诞节伊利亚",
             "圣诞伊莉雅",
@@ -1586,31 +1650,17 @@
             "圣伊"
         ]
     },
-    "1118": {
-        "location": null,
-        "cn_exists": false,
-        "range": null,
-        "init_star": null,
-        "cn_name": "佩可莉姆（新年）",
-        "jp_name": "ペコリーヌ（ニューイヤー）",
-        "tw_name": "貪吃佩可（新年）",
-        "main_nickname": "春吃",
-        "nicknames": [
-            "春吃",
-            "新年佩可",
-            "新年贪吃佩可"
-        ]
-    },
     "1119": {
-        "location": "front",
-        "cn_exists": false,
+        "name": "コッコロ（ニューイヤー）",
+        "location": 0,
         "range": 159,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "可可萝（新年）",
-        "jp_name": "コッコロ（ニューイヤー）",
         "tw_name": "可可蘿（新年）",
-        "main_nickname": "春白",
-        "nicknames": [
+        "main_cn_nickname": "春白",
+        "cn_nicknames": [
             "春白",
             "春妈",
             "新年可可萝",
@@ -1618,15 +1668,16 @@
         ]
     },
     "1120": {
-        "location": "behind",
-        "cn_exists": false,
+        "name": "キャル（ニューイヤー）",
+        "location": 2,
         "range": 690,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "凯露（新年）",
-        "jp_name": "キャル（ニューイヤー）",
         "tw_name": "新春凯露",
-        "main_nickname": "春黑",
-        "nicknames": [
+        "main_cn_nickname": "春黑",
+        "cn_nicknames": [
             "春黑",
             "新年黑猫",
             "新年凯露",
@@ -1636,30 +1687,32 @@
         ]
     },
     "1121": {
-        "location": "behind",
-        "cn_exists": false,
+        "name": "スズメ（ニューイヤー）",
+        "location": 2,
         "range": 722,
         "init_star": 1,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "铃莓（新年）",
-        "jp_name": "スズメ（ニューイヤー）",
         "tw_name": "鈴莓（新年）",
-        "main_nickname": "春女仆",
-        "nicknames": [
+        "main_cn_nickname": "春女仆",
+        "cn_nicknames": [
             "春女仆",
             "新年女仆",
             "新年铃莓"
         ]
     },
     "1122": {
-        "location": "behind",
-        "cn_exists": false,
+        "name": "カスミ（マジカル）",
+        "location": 2,
         "range": 730,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "香澄（魔法少女）",
-        "jp_name": "カスミ（マジカル）",
         "tw_name": "霞（魔法少女）",
-        "main_nickname": "魔驴",
-        "nicknames": [
+        "main_cn_nickname": "魔驴",
+        "cn_nicknames": [
             "魔驴",
             "魔法少驴",
             "魔法侦探",
@@ -1668,15 +1721,16 @@
         ]
     },
     "1123": {
-        "location": "behind",
-        "cn_exists": false,
+        "name": "シオリ（マジカル）",
+        "location": 2,
         "range": 712,
         "init_star": 1,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "栞（魔法少女）",
-        "jp_name": "シオリ（マジカル）",
         "tw_name": "栞（魔法少女）",
-        "main_nickname": "魔法弓",
-        "nicknames": [
+        "main_cn_nickname": "魔法弓",
+        "cn_nicknames": [
             "魔法弓",
             "魔弓",
             "法弓",
@@ -1684,302 +1738,243 @@
         ]
     },
     "1124": {
-        "location": "middle",
-        "cn_exists": false,
+        "name": "ウヅキ（デレマス）",
+        "location": 1,
         "range": 370,
         "init_star": 1,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "岛村卯月（偶像大师）",
-        "jp_name": "ウヅキ（デレマス）",
         "tw_name": "岛村卯月（偶像大师）",
-        "main_nickname": "岛村卯月",
-        "nicknames": [
+        "main_cn_nickname": "岛村卯月",
+        "cn_nicknames": [
             "卯月",
             "卵用",
             "偶像大师岛村卯月"
         ]
     },
     "1125": {
-        "location": "front",
-        "cn_exists": false,
+        "name": "リン（デレマス）",
+        "location": 0,
         "range": 153,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "涉谷凛（偶像大师）",
-        "jp_name": "リン（デレマス）",
         "tw_name": "涉谷凛（偶像大师）",
-        "main_nickname": "涉谷凛",
-        "nicknames": [
+        "main_cn_nickname": "涉谷凛",
+        "cn_nicknames": [
             "涉谷凛",
             "凛",
             "偶像大师涉谷凛"
         ]
     },
     "1126": {
-        "location": "behind",
-        "cn_exists": false,
+        "name": "ミオ（デレマス）",
+        "location": 2,
         "range": 695,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "本田未央（偶像大师）",
-        "jp_name": "ミオ（デレマス）",
         "tw_name": "本田未央（偶像大师）",
-        "main_nickname": "本田未央",
-        "nicknames": [
+        "main_cn_nickname": "本田未央",
+        "cn_nicknames": [
             "偶像大师本田未央",
             "mio"
         ]
     },
     "1127": {
-        "location": "middle",
-        "cn_exists": false,
+        "name": "リン（レンジャー）",
+        "location": 1,
         "range": 422,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "铃（游侠）",
-        "jp_name": "リン（レンジャー）",
         "tw_name": "鈴（游侠）",
-        "main_nickname": "游侠松鼠",
-        "nicknames": [
+        "main_cn_nickname": "游侠松鼠",
+        "cn_nicknames": [
             "游侠松鼠",
             "武松",
             "钻头哥"
         ]
     },
     "1128": {
-        "location": "middle",
-        "cn_exists": false,
+        "name": "マヒル（レンジャー）",
+        "location": 1,
         "range": 390,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "真阳（游侠）",
-        "jp_name": "マヒル（レンジャー）",
         "tw_name": "真陽（游侠）",
-        "main_nickname": "游侠真阳",
-        "nicknames": [
+        "main_cn_nickname": "游侠真阳",
+        "cn_nicknames": [
             "游侠真阳",
             "斗牛"
         ]
     },
     "1129": {
-        "location": "behind",
-        "cn_exists": false,
+        "name": "リノ（ワンダー）",
+        "location": 2,
         "range": 730,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "璃乃（仙境）",
-        "jp_name": "リノ（ワンダー）",
         "tw_name": "璃乃（仙境）",
-        "main_nickname": "爱弓",
-        "nicknames": [
+        "main_cn_nickname": "爱弓",
+        "cn_nicknames": [
             "爱弓",
             "爽弓",
             "爽妹"
         ]
     },
     "1130": {
-        "location": "middle",
-        "cn_exists": false,
+        "name": "アユミ（ワンダー）",
+        "location": 1,
         "range": 508,
         "init_star": 1,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "步未（仙境）",
-        "jp_name": "アユミ（ワンダー）",
         "tw_name": "步未（仙境）",
-        "main_nickname": "梦路",
-        "nicknames": [
+        "main_cn_nickname": "梦路",
+        "cn_nicknames": [
             "梦路"
         ]
     },
     "1131": {
-        "location": "front",
-        "cn_exists": false,
+        "name": "ルカ（サマー）",
+        "location": 0,
         "range": 192,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "流夏（夏日）",
-        "jp_name": "ルカ（サマー）",
         "tw_name": "",
-        "main_nickname": "水流",
-        "nicknames": [
+        "main_cn_nickname": "水流",
+        "cn_nicknames": [
             "水流",
             "水流夏"
         ]
     },
     "1132": {
-        "location": "front",
-        "cn_exists": false,
+        "name": "アンナ（サマー）",
+        "location": 0,
         "range": 256,
         "init_star": 1,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "杏奈（夏日）",
-        "jp_name": "アンナ（サマー）",
         "tw_name": "",
-        "main_nickname": "水中二",
-        "nicknames": [
+        "main_cn_nickname": "水中二",
+        "cn_nicknames": [
             "水中二",
             "冲二"
         ]
     },
     "1133": {
-        "location": "middle",
-        "cn_exists": false,
+        "name": "ナナカ（サマー）",
+        "location": 1,
         "range": 468,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "七七香（夏日）",
-        "jp_name": "ナナカ（サマー）",
         "tw_name": "七七香（夏日）",
-        "main_nickname": "水七",
-        "nicknames": [
+        "main_cn_nickname": "水七",
+        "cn_nicknames": [
             "水七"
         ]
     },
     "1134": {
-        "location": "middle",
-        "cn_exists": false,
+        "name": "ハツネ（サマー）",
+        "location": 1,
         "range": 567,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "初音（夏日）",
-        "jp_name": "ハツネ（サマー）",
         "tw_name": "",
-        "main_nickname": "水星",
-        "nicknames": [
+        "main_cn_nickname": "水星",
+        "cn_nicknames": [
             "水星",
             "海星"
         ]
     },
     "1135": {
-        "location": "behind",
-        "cn_exists": false,
+        "name": "ミサト（サマー）",
+        "location": 2,
         "range": 697,
         "init_star": 1,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "美里（夏日）",
-        "jp_name": "ミサト（サマー）",
         "tw_name": "",
-        "main_nickname": "水母",
-        "nicknames": [
+        "main_cn_nickname": "水母",
+        "cn_nicknames": [
             "水母",
             "水美里"
         ]
     },
     "1136": {
-        "location": "front",
-        "cn_exists": false,
+        "name": "ジュン（サマー）",
+        "location": 0,
         "range": 182,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "纯（夏日）",
-        "jp_name": "ジュン（サマー）",
         "tw_name": "",
-        "main_nickname": "水黑骑",
-        "nicknames": [
+        "main_cn_nickname": "水黑骑",
+        "cn_nicknames": [
             "水黑骑",
             "水骑"
         ]
     },
     "1137": {
-        "location": "middle",
-        "cn_exists": false,
+        "name": "アカリ（エンジェル）",
+        "location": 1,
         "range": 530,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "茜里（天使）",
-        "jp_name": "アカリ（エンジェル）",
         "tw_name": "",
-        "main_nickname": "天使妹法",
-        "nicknames": [
+        "main_cn_nickname": "天使妹法",
+        "cn_nicknames": [
             "天使妹法"
         ]
     },
-    "1138": {
-        "location": null,
-        "cn_exists": false,
-        "range": null,
-        "init_star": 3,
-        "cn_name": "依里（天使）",
-        "jp_name": "ヨリ（エンジェル）",
-        "tw_name": "",
-        "main_nickname": "天使姐法",
-        "nicknames": [
-            "天使姐法"
-        ]
-    },
-    "1139": {
-        "location": null,
-        "cn_exists": false,
-        "range": null,
-        "init_star": 1,
-        "cn_name": "纺希(万圣节)",
-        "jp_name": "ツムギ(ハロウィン)",
-        "tw_name": "紡希（萬聖節）",
-        "main_nickname": "鬼才",
-        "nicknames": [
-            "鬼才",
-            "万裁",
-            "瓜裁",
-            "万圣裁缝",
-            "万圣蜘蛛侠"
-        ]
-    },
-    "1140": {
-        "location": null,
-        "cn_exists": false,
-        "range": null,
-        "init_star": 3,
-        "cn_name": "怜(万圣节)",
-        "jp_name": "レイ(ハロウィン)",
-        "tw_name": "怜（萬聖節）",
-        "main_nickname": "瓜剑",
-        "nicknames": [
-            "瓜剑",
-            "瓜怜",
-            "万圣剑圣",
-            "万剑"
-        ]
-    },
-    "1141": {
-        "location": null,
-        "cn_exists": false,
-        "range": null,
-        "init_star": 3,
-        "cn_name": "茉莉(万圣节)",
-        "jp_name": "マツリ(ハロウィン)",
-        "tw_name": "茉莉（萬聖節）",
-        "main_nickname": "瓜虎",
-        "nicknames": [
-            "瓜虎",
-            "万圣老虎",
-            "万圣跳跳虎"
-        ]
-    },
-    "1701": {
-        "location": "middle",
-        "cn_exists": true,
-        "range": 433,
-        "init_star": 3,
-        "cn_name": "桥本环奈",
-        "jp_name": "橋本 環奈",
-        "tw_name": "橋本環奈",
-        "main_nickname": "环奈",
-        "nicknames": [
-            "环奈",
-            "桥本"
-        ]
-    },
     "1802": {
-        "location": "behind",
-        "cn_exists": false,
+        "name": "ユイ（プリンセス）",
+        "location": 2,
         "range": 767,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "优衣（公主）",
-        "jp_name": "ユイ（プリンセス）",
         "tw_name": "優衣（公主）",
-        "main_nickname": "公主优衣",
-        "nicknames": [
+        "main_cn_nickname": "公主优衣",
+        "cn_nicknames": [
             "公主优衣",
             "高达优衣",
             "飞翼优衣"
         ]
     },
     "1804": {
-        "location": "front",
-        "cn_exists": false,
+        "name": "ペコリーヌ（プリンセス）",
+        "location": 0,
         "range": 155,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "佩可莉姆（公主）",
-        "jp_name": "ペコリーヌ（プリンセス）",
         "tw_name": "貪吃佩可（公主）",
-        "main_nickname": "高达",
-        "nicknames": [
+        "main_cn_nickname": "高达",
+        "cn_nicknames": [
             "高达",
             "命运吃货",
             "公主吃货",
@@ -1989,15 +1984,16 @@
         ]
     },
     "1805": {
-        "location": "middle",
-        "cn_exists": false,
+        "name": "コッコロ（プリンセス）",
+        "location": 1,
         "range": 555,
         "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
         "cn_name": "可可萝（公主）",
-        "jp_name": "コッコロ（プリンセス）",
         "tw_name": "可可蘿（公主）",
-        "main_nickname": "蝶妈",
-        "nicknames": [
+        "main_cn_nickname": "蝶妈",
+        "cn_nicknames": [
             "蝶妈",
             "公主可可萝",
             "月光蝶",
