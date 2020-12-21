@@ -18,7 +18,7 @@ jobs:
         python-version: '3.x'
         architecture: 'x64'
     - name: Generate Json
-      run: python ./scripts/generate.py
+      run: python .scripts/generate.py
     # - name: Get current date
     #   id: date
     #   run: echo "::set-output name=date::$(date +'%Y-%m-%d-%H-%M-%S')"
@@ -63,4 +63,4 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Refresh jsdelivr cache
-      run: python ./scripts/flush.py
+      run: python .scripts/flush.py
