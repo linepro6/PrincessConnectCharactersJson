@@ -60,7 +60,7 @@
         "strict_regex": "初音|ハツネ|初音|初音|星星法|星法|睡法"
     },
     "1013": {
-        "desc_game": false,
+        "desc_game": true,
         "loose_regex": "七七香|ナナカ|七七香|七七香|娜娜卡|77香|nanaka",
         "strict_regex": "七七香|ナナカ|七七香|七七香|娜娜卡|77香|nanaka"
     },
@@ -250,7 +250,7 @@
         "strict_regex": "步未|アユミ|步未|路人|路人妹|女路人|步美"
     },
     "1056": {
-        "desc_game": false,
+        "desc_game": true,
         "loose_regex": "流夏|ルカ|卢卡|大姐|露卡|ruka|luka|儿力",
         "strict_regex": "流夏|ルカ|卢卡|大姐|露卡|ruka|luka|儿力"
     },
@@ -400,9 +400,9 @@
         "strict_regex": "本田未央（偶像大师）|ミオ（デレマス）|本田未央（偶像大师）|本田未央|偶像大师本田未央|mio|本田|本田未央偶像大师"
     },
     "1701": {
-        "desc_game": true,
-        "loose_regex": "桥本环奈|橋本 環奈|橋本環奈|毛大力|桥本|环奈",
-        "strict_regex": "桥本环奈|橋本 環奈|橋本環奈|毛大力|桥本|环奈"
+        "desc_game": false,
+        "loose_regex": "环奈|桥本|桥本环奈|毛大力",
+        "strict_regex": "环奈|桥本|桥本环奈|毛大力"
     },
     "1107": {
         "desc_game": false,
@@ -415,27 +415,27 @@
         "strict_regex": "水吃|水吃货|泼妇|(泳装|夏日)(佩可|佩可莉姆|配可)|(佩可|佩可莉姆|配可)(泳装|夏日)"
     },
     "1076": {
-        "desc_game": false,
+        "desc_game": true,
         "loose_regex": "水妈|水白|(泳装|夏日)?(可可萝|妈|白毛)(泳装|夏日)?",
         "strict_regex": "水妈|水白|(泳装|夏日)(可可萝|妈|白毛)|(可可萝|妈|白毛)(泳装|夏日)"
     },
     "1077": {
-        "desc_game": false,
+        "desc_game": true,
         "loose_regex": "水女仆|(泳装|夏日)?(女仆|铃莓)|(女仆|铃莓)(泳装|夏日)?",
         "strict_regex": "水女仆|(泳装|夏日)(女仆|铃莓)|(女仆|铃莓)(泳装|夏日)"
     },
     "1078": {
-        "desc_game": false,
+        "desc_game": true,
         "loose_regex": "水黑|潶|(泳装|夏日|水)?(凯露|凯留|黑猫)(泳装|夏日)?",
         "strict_regex": "水黑|潶|(泳装|夏日|水)(凯露|凯留|黑猫)|(凯露|凯留|黑猫)(泳装|夏日)"
     },
     "1079": {
-        "desc_game": false,
+        "desc_game": true,
         "loose_regex": "(夏日|泳装|水)?(珠希|猫剑|猫)(夏日|泳装)?",
         "strict_regex": "(夏日|泳装|水)(珠希|猫剑|猫)|(珠希|猫剑|猫)(夏日|泳装)"
     },
     "1080": {
-        "desc_game": false,
+        "desc_game": true,
         "loose_regex": "(水|夏日|泳装)?(美东|子龙)(夏日|泳装)?",
         "strict_regex": "(水|夏日|泳装)(美东|子龙)|(美东|子龙)(夏日|泳装)"
     },
@@ -653,6 +653,31 @@
         "desc_game": false,
         "loose_regex": "(万圣(节)?)?(茉莉|老虎|跳跳虎)(万圣(节)?)?",
         "strict_regex": "(万圣(节)?)(茉莉|老虎|跳跳虎)|(茉莉|老虎|跳跳虎)(万圣(节)?)"
+    },
+    "1142": {
+        "desc_game": false,
+        "loose_regex": "(魔法少女)?毛二力|(魔法少女)?莫妮卡|魔二力",
+        "strict_regex": "魔法少女(毛二力|莫妮卡)|魔二力"
+    },
+    "1143": {
+        "desc_game": false,
+        "loose_regex": "(魔法少女)?(智|卜毛|白毛)|9智",
+        "strict_regex": "(魔法少女)(智|卜毛|白毛)|9智"
+    },
+    "1144": {
+        "desc_game": false,
+        "loose_regex": "哈哈剑|圣诞哈哈剑|圣哈|生煎",
+        "strict_regex": "圣诞哈哈剑|圣哈|生煎"
+    },
+    "1145": {
+        "desc_game": false,
+        "loose_regex": "充电宝|圣诞咲恋|圣充",
+        "strict_regex": "圣诞咲恋|圣充"
+    },
+    "1146": {
+        "desc_game": false,
+        "loose_regex": "(圣诞)?(由加莉|黄骑|圣骑)|圣骑|蛋黄|蛋骑",
+        "strict_regex": "圣诞(由加莉|黄骑|圣骑)|圣骑|蛋黄|蛋骑"
     },
     "1802": {
         "desc_game": false,

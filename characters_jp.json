@@ -271,7 +271,7 @@
         "location": 2,
         "range": 715,
         "init_star": 3,
-        "max_star": 5,
+        "max_star": 6,
         "have_weapon": true,
         "cn_name": "伊绪",
         "tw_name": "伊緒",
@@ -336,7 +336,7 @@
         "location": 0,
         "range": 210,
         "init_star": 2,
-        "max_star": 5,
+        "max_star": 6,
         "have_weapon": true,
         "cn_name": "绫音",
         "tw_name": "綾音",
@@ -1604,7 +1604,7 @@
         "range": 265,
         "init_star": 3,
         "max_star": 5,
-        "have_weapon": false,
+        "have_weapon": true,
         "cn_name": "克里斯蒂娜（圣诞节）",
         "tw_name": "克莉絲提娜（聖誕節）",
         "main_cn_nickname": "圣克",
@@ -1622,7 +1622,7 @@
         "range": 418,
         "init_star": 1,
         "max_star": 5,
-        "have_weapon": false,
+        "have_weapon": true,
         "cn_name": "望（圣诞节）",
         "tw_name": "望（聖誕節）",
         "main_cn_nickname": "圣诞偶像",
@@ -1638,7 +1638,7 @@
         "range": 255,
         "init_star": 3,
         "max_star": 5,
-        "have_weapon": false,
+        "have_weapon": true,
         "cn_name": "伊莉雅（圣诞节）",
         "tw_name": "伊莉亞（聖誕節）",
         "main_cn_nickname": "圣诞yly",
@@ -1853,7 +1853,7 @@
         "max_star": 5,
         "have_weapon": false,
         "cn_name": "流夏（夏日）",
-        "tw_name": "",
+        "tw_name": "流夏（夏日）",
         "main_cn_nickname": "水流",
         "cn_nicknames": [
             "水流",
@@ -1868,7 +1868,7 @@
         "max_star": 5,
         "have_weapon": false,
         "cn_name": "杏奈（夏日）",
-        "tw_name": "",
+        "tw_name": "杏奈（夏日）",
         "main_cn_nickname": "水中二",
         "cn_nicknames": [
             "水中二",
@@ -1897,7 +1897,7 @@
         "max_star": 5,
         "have_weapon": false,
         "cn_name": "初音（夏日）",
-        "tw_name": "",
+        "tw_name": "初音（夏日）",
         "main_cn_nickname": "水星",
         "cn_nicknames": [
             "水星",
@@ -1912,7 +1912,7 @@
         "max_star": 5,
         "have_weapon": false,
         "cn_name": "美里（夏日）",
-        "tw_name": "",
+        "tw_name": "美里（夏日）",
         "main_cn_nickname": "水母",
         "cn_nicknames": [
             "水母",
@@ -1927,7 +1927,7 @@
         "max_star": 5,
         "have_weapon": false,
         "cn_name": "纯（夏日）",
-        "tw_name": "",
+        "tw_name": "純（夏日）",
         "main_cn_nickname": "水黑骑",
         "cn_nicknames": [
             "水黑骑",
@@ -1946,6 +1946,147 @@
         "main_cn_nickname": "天使妹法",
         "cn_nicknames": [
             "天使妹法"
+        ]
+    },
+    "1138": {
+        "name": "ヨリ（エンジェル）",
+        "location": 1,
+        "range": 531,
+        "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
+        "cn_name": "依里（天使）",
+        "tw_name": "",
+        "main_cn_nickname": "天使姐法",
+        "cn_nicknames": [
+            "天使姐法"
+        ]
+    },
+    "1139": {
+        "name": "ツムギ(ハロウィン)",
+        "location": 0,
+        "range": 152,
+        "init_star": 1,
+        "max_star": 5,
+        "have_weapon": false,
+        "cn_name": "纺希(万圣节)",
+        "tw_name": "紡希（萬聖節）",
+        "main_cn_nickname": "鬼才",
+        "cn_nicknames": [
+            "鬼才",
+            "万裁",
+            "瓜裁",
+            "万圣裁缝",
+            "万圣蜘蛛侠"
+        ]
+    },
+    "1140": {
+        "name": "レイ(ハロウィン)",
+        "location": 1,
+        "range": 375,
+        "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
+        "cn_name": "怜(万圣节)",
+        "tw_name": "怜（萬聖節）",
+        "main_cn_nickname": "瓜剑",
+        "cn_nicknames": [
+            "瓜剑",
+            "瓜怜",
+            "万圣剑圣",
+            "万剑"
+        ]
+    },
+    "1141": {
+        "name": "マツリ(ハロウィン)",
+        "location": 0,
+        "range": 186,
+        "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
+        "cn_name": "茉莉(万圣节)",
+        "tw_name": "茉莉（萬聖節）",
+        "main_cn_nickname": "瓜虎",
+        "cn_nicknames": [
+            "瓜虎",
+            "万圣老虎",
+            "万圣跳跳虎"
+        ]
+    },
+    "1142": {
+        "name": "モニカ(マジカル)",
+        "location": 1,
+        "range": 528,
+        "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
+        "cn_name": "莫妮卡(魔法少女)",
+        "tw_name": "莫妮卡(魔法少女)",
+        "main_cn_nickname": "魔法少女莫妮卡",
+        "cn_nicknames": [
+            "魔二力"
+        ]
+    },
+    "1143": {
+        "name": "トモ(マジカル)",
+        "location": 1,
+        "range": 402,
+        "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
+        "cn_name": "智(魔法少女)",
+        "tw_name": "智(魔法少女)",
+        "main_cn_nickname": "魔法少女智",
+        "cn_nicknames": [
+            "9智"
+        ]
+    },
+    "1144": {
+        "name": "アキノ(クリスマス)",
+        "location": 0,
+        "range": 189,
+        "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
+        "cn_name": "秋乃(圣诞节)",
+        "tw_name": "（聖誕節）",
+        "main_cn_nickname": "圣诞哈哈剑",
+        "cn_nicknames": [
+            "生煎",
+            "圣哈",
+            "圣剑"
+        ]
+    },
+    "1145": {
+        "name": "サレン(クリスマス)",
+        "location": 0,
+        "range": 150,
+        "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
+        "cn_name": "咲恋(圣诞节)",
+        "tw_name": "（聖誕節）",
+        "main_cn_nickname": "圣诞咲恋",
+        "cn_nicknames": [
+            "圣诞充电宝",
+            "圣电",
+            "圣充"
+        ]
+    },
+    "1146": {
+        "name": "ユカリ(クリスマス)",
+        "location": 1,
+        "range": 408,
+        "init_star": 1,
+        "max_star": 5,
+        "have_weapon": false,
+        "cn_name": "由加莉(圣诞节)",
+        "tw_name": "優花梨（聖誕節）",
+        "main_cn_nickname": "圣诞黄骑",
+        "cn_nicknames": [
+            "蛋黄",
+            "蛋骑",
+            "圣诞圣骑"
         ]
     },
     "1802": {

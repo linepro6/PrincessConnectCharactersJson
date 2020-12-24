@@ -1791,7 +1791,7 @@
         "init_star": 3,
         "cn_name": "流夏（夏日）",
         "jp_name": "ルカ（サマー）",
-        "tw_name": "",
+        "tw_name": "流夏（夏日）",
         "main_nickname": "水流",
         "nicknames": [
             "水流",
@@ -1805,7 +1805,7 @@
         "init_star": 1,
         "cn_name": "杏奈（夏日）",
         "jp_name": "アンナ（サマー）",
-        "tw_name": "",
+        "tw_name": "杏奈（夏日）",
         "main_nickname": "水中二",
         "nicknames": [
             "水中二",
@@ -1832,7 +1832,7 @@
         "init_star": 3,
         "cn_name": "初音（夏日）",
         "jp_name": "ハツネ（サマー）",
-        "tw_name": "",
+        "tw_name": "初音（夏日）",
         "main_nickname": "水星",
         "nicknames": [
             "水星",
@@ -1846,7 +1846,7 @@
         "init_star": 1,
         "cn_name": "美里（夏日）",
         "jp_name": "ミサト（サマー）",
-        "tw_name": "",
+        "tw_name": "美里（夏日）",
         "main_nickname": "水母",
         "nicknames": [
             "水母",
@@ -1860,7 +1860,7 @@
         "init_star": 3,
         "cn_name": "纯（夏日）",
         "jp_name": "ジュン（サマー）",
-        "tw_name": "",
+        "tw_name": "純（夏日）",
         "main_nickname": "水黑骑",
         "nicknames": [
             "水黑骑",
@@ -1881,9 +1881,9 @@
         ]
     },
     "1138": {
-        "location": null,
+        "location": "middle",
         "cn_exists": false,
-        "range": null,
+        "range": 531,
         "init_star": 3,
         "cn_name": "依里（天使）",
         "jp_name": "ヨリ（エンジェル）",
@@ -1894,9 +1894,9 @@
         ]
     },
     "1139": {
-        "location": null,
+        "location": "front",
         "cn_exists": false,
-        "range": null,
+        "range": 152,
         "init_star": 1,
         "cn_name": "纺希(万圣节)",
         "jp_name": "ツムギ(ハロウィン)",
@@ -1911,9 +1911,9 @@
         ]
     },
     "1140": {
-        "location": null,
+        "location": "middle",
         "cn_exists": false,
-        "range": null,
+        "range": 375,
         "init_star": 3,
         "cn_name": "怜(万圣节)",
         "jp_name": "レイ(ハロウィン)",
@@ -1927,9 +1927,9 @@
         ]
     },
     "1141": {
-        "location": null,
+        "location": "front",
         "cn_exists": false,
-        "range": null,
+        "range": 186,
         "init_star": 3,
         "cn_name": "茉莉(万圣节)",
         "jp_name": "マツリ(ハロウィン)",
@@ -1941,17 +1941,88 @@
             "万圣跳跳虎"
         ]
     },
+    "1142": {
+        "location": "middle",
+        "cn_exists": false,
+        "range": 528,
+        "init_star": 3,
+        "cn_name": "莫妮卡(魔法少女)",
+        "jp_name": "モニカ(マジカル)",
+        "tw_name": "莫妮卡(魔法少女)",
+        "main_nickname": "魔法少女莫妮卡",
+        "nicknames": [
+            "魔二力"
+        ]
+    },
+    "1143": {
+        "location": "middle",
+        "cn_exists": false,
+        "range": 402,
+        "init_star": 3,
+        "cn_name": "智(魔法少女)",
+        "jp_name": "トモ(マジカル)",
+        "tw_name": "智(魔法少女)",
+        "main_nickname": "魔法少女智",
+        "nicknames": [
+            "9智"
+        ]
+    },
+    "1144": {
+        "location": "front",
+        "cn_exists": false,
+        "range": 189,
+        "init_star": 3,
+        "cn_name": "秋乃(圣诞节)",
+        "jp_name": "アキノ(クリスマス)",
+        "tw_name": "（聖誕節）",
+        "main_nickname": "圣诞哈哈剑",
+        "nicknames": [
+            "生煎",
+            "圣哈",
+            "圣剑"
+        ]
+    },
+    "1145": {
+        "location": "front",
+        "cn_exists": false,
+        "range": 150,
+        "init_star": 3,
+        "cn_name": "咲恋(圣诞节)",
+        "jp_name": "サレン(クリスマス)",
+        "tw_name": "（聖誕節）",
+        "main_nickname": "圣诞咲恋",
+        "nicknames": [
+            "圣诞充电宝",
+            "圣电",
+            "圣充"
+        ]
+    },
+    "1146": {
+        "location": "middle",
+        "cn_exists": false,
+        "range": 408,
+        "init_star": 1,
+        "cn_name": "由加莉(圣诞节)",
+        "jp_name": "ユカリ(クリスマス)",
+        "tw_name": "優花梨（聖誕節）",
+        "main_nickname": "圣诞黄骑",
+        "nicknames": [
+            "蛋黄",
+            "蛋骑",
+            "圣诞圣骑"
+        ]
+    },
     "1701": {
         "location": "middle",
         "cn_exists": true,
         "range": 433,
         "init_star": 3,
         "cn_name": "桥本环奈",
-        "jp_name": "橋本 環奈",
+        "jp_name": "カンナ",
         "tw_name": "橋本環奈",
         "main_nickname": "环奈",
         "nicknames": [
-            "环奈",
+            "毛大力",
             "桥本"
         ]
     },
