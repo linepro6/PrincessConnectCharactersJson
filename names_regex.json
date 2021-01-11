@@ -679,6 +679,11 @@
         "loose_regex": "(圣诞)?(由加莉|黄骑|圣骑)|圣骑|蛋黄|蛋骑",
         "strict_regex": "圣诞(由加莉|黄骑|圣骑)|圣骑|蛋黄|蛋骑"
     },
+    "1702": {
+        "desc_game": false,
+        "loose_regex": "环奈振袖|春环|振环|甄嬛",
+        "strict_regex": "环奈振袖|春环|振环|甄嬛"
+    },
     "1802": {
         "desc_game": false,
         "loose_regex": "(公主|高达|飞翼)?(ue|优衣|u1)",

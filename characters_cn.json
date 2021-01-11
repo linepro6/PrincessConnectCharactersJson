@@ -1191,5 +1191,20 @@
             "毛大力",
             "桥本"
         ]
+    },
+    "1702": {
+        "name": "环奈(振袖)",
+        "location": 1,
+        "range": 527,
+        "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
+        "jp_name": "环奈（振袖）",
+        "tw_name": "环奈（振袖）",
+        "main_nickname": "春环",
+        "nicknames": [
+            "甄嬛",
+            "振环"
+        ]
     }
 }

@@ -2089,6 +2089,21 @@
             "圣诞圣骑"
         ]
     },
+    "1702": {
+        "name": "环奈（振袖）",
+        "location": 1,
+        "range": 527,
+        "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
+        "cn_name": "环奈(振袖)",
+        "tw_name": "环奈（振袖）",
+        "main_cn_nickname": "春环",
+        "cn_nicknames": [
+            "甄嬛",
+            "振环"
+        ]
+    },
     "1802": {
         "name": "ユイ（プリンセス）",
         "location": 2,

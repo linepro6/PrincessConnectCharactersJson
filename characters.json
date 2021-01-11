@@ -2026,6 +2026,20 @@
             "桥本"
         ]
     },
+    "1702": {
+        "location": "middle",
+        "cn_exists": true,
+        "range": 527,
+        "init_star": 3,
+        "cn_name": "环奈(振袖)",
+        "jp_name": "环奈（振袖）",
+        "tw_name": "环奈（振袖）",
+        "main_nickname": "春环",
+        "nicknames": [
+            "甄嬛",
+            "振环"
+        ]
+    },
     "1802": {
         "location": "behind",
         "cn_exists": false,
