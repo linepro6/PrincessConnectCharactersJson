@@ -1151,6 +1151,42 @@
             "新年剑圣"
         ]
     },
+    "1090": {
+        "name": "惠理子（情人节）",
+        "location": 0,
+        "range": 187,
+        "init_star": 1,
+        "max_star": 5,
+        "have_weapon": false,
+        "jp_name": "エリコ（バレンタイン）",
+        "tw_name": "惠理子（情人節）",
+        "main_nickname": "情病",
+        "nicknames": [
+            "情病",
+            "情人节惠理子",
+            "情人节病娇",
+            "恋病",
+            "情人病"
+        ]
+    },
+    "1091": {
+        "name": "静流（情人节）",
+        "location": 1,
+        "range": 385,
+        "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
+        "jp_name": "シズル（バレンタイン）",
+        "tw_name": "靜流（情人節）",
+        "main_nickname": "情姐",
+        "nicknames": [
+            "情姐",
+            "情人节静流",
+            "情人节姐姐",
+            "恋姐",
+            "情人姐"
+        ]
+    },
     "1092": {
         "name": "安",
         "location": 2,
@@ -1176,6 +1212,95 @@
         "tw_name": "露",
         "main_nickname": "露",
         "nicknames": []
+    },
+    "1094": {
+        "name": "古蕾雅",
+        "location": 1,
+        "range": 525,
+        "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
+        "jp_name": "グレア",
+        "tw_name": "古蕾婭",
+        "main_nickname": "龙姬",
+        "nicknames": [
+            "龙姬"
+        ]
+    },
+    "1095": {
+        "name": "空花（大江户）",
+        "location": 0,
+        "range": 140,
+        "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
+        "jp_name": "クウカ（オーエド）",
+        "tw_name": "大江m",
+        "main_nickname": "江户空花",
+        "nicknames": [
+            "江户空花",
+            "江户抖m",
+            "江户m",
+            "江m",
+            "花m",
+            "和服空花",
+            "大江户空花"
+        ]
+    },
+    "1096": {
+        "name": "妮侬（大江户）",
+        "location": 0,
+        "range": 175,
+        "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
+        "jp_name": "ニノン（オーエド）",
+        "tw_name": "妮諾（大江戶）",
+        "main_nickname": "江户扇子",
+        "nicknames": [
+            "江户扇子",
+            "忍扇",
+            "大江户妮诺"
+        ]
+    },
+    "1097": {
+        "name": "蕾姆",
+        "location": 1,
+        "range": 540,
+        "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
+        "jp_name": "レム",
+        "tw_name": "雷姆",
+        "main_nickname": "蕾姆",
+        "nicknames": []
+    },
+    "1098": {
+        "name": "拉姆",
+        "location": 1,
+        "range": 545,
+        "init_star": 1,
+        "max_star": 5,
+        "have_weapon": false,
+        "jp_name": "ラム",
+        "tw_name": "拉姆",
+        "main_nickname": "拉姆",
+        "nicknames": []
+    },
+    "1099": {
+        "name": "艾米莉亚",
+        "location": 2,
+        "range": 725,
+        "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
+        "jp_name": "エミリア",
+        "tw_name": "愛蜜莉雅",
+        "main_nickname": "emt",
+        "nicknames": [
+            "emt",
+            "爱蜜莉雅"
+        ]
     },
     "1701": {
         "name": "桥本环奈",

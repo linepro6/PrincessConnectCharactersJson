@@ -1184,7 +1184,7 @@
     },
     "1090": {
         "location": "front",
-        "cn_exists": false,
+        "cn_exists": true,
         "range": 187,
         "init_star": 1,
         "cn_name": "惠理子（情人节）",
@@ -1201,7 +1201,7 @@
     },
     "1091": {
         "location": "middle",
-        "cn_exists": false,
+        "cn_exists": true,
         "range": 385,
         "init_star": 3,
         "cn_name": "静流（情人节）",
@@ -1242,7 +1242,7 @@
     },
     "1094": {
         "location": "middle",
-        "cn_exists": false,
+        "cn_exists": true,
         "range": 525,
         "init_star": 3,
         "cn_name": "古蕾雅",
@@ -1255,7 +1255,7 @@
     },
     "1095": {
         "location": "front",
-        "cn_exists": false,
+        "cn_exists": true,
         "range": 140,
         "init_star": 3,
         "cn_name": "空花（大江户）",
@@ -1274,7 +1274,7 @@
     },
     "1096": {
         "location": "front",
-        "cn_exists": false,
+        "cn_exists": true,
         "range": 175,
         "init_star": 3,
         "cn_name": "妮侬（大江户）",
@@ -1289,7 +1289,7 @@
     },
     "1097": {
         "location": "middle",
-        "cn_exists": false,
+        "cn_exists": true,
         "range": 540,
         "init_star": 3,
         "cn_name": "蕾姆",
@@ -1300,7 +1300,7 @@
     },
     "1098": {
         "location": "middle",
-        "cn_exists": false,
+        "cn_exists": true,
         "range": 545,
         "init_star": 1,
         "cn_name": "拉姆",
@@ -1311,7 +1311,7 @@
     },
     "1099": {
         "location": "behind",
-        "cn_exists": false,
+        "cn_exists": true,
         "range": 725,
         "init_star": 3,
         "cn_name": "艾米莉亚",
