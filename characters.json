@@ -10,7 +10,8 @@
         "main_nickname": "猫拳",
         "nicknames": [
             "猫拳"
-        ]
+        ],
+        "max_star": 6
     },
     "1002": {
         "location": "behind",
@@ -25,7 +26,8 @@
             "ue",
             "种田",
             "u1"
-        ]
+        ],
+        "max_star": 6
     },
     "1003": {
         "location": "front",
@@ -38,7 +40,8 @@
         "main_nickname": "剑圣",
         "nicknames": [
             "剑圣"
-        ]
+        ],
+        "max_star": 6
     },
     "1004": {
         "location": "front",
@@ -53,7 +56,8 @@
             "炸弹人",
             "炸弹",
             "熊孩子"
-        ]
+        ],
+        "max_star": 6
     },
     "1005": {
         "location": "front",
@@ -69,7 +73,8 @@
             "虎",
             "跳刀虎",
             "马自立"
-        ]
+        ],
+        "max_star": 5
     },
     "1006": {
         "location": "middle",
@@ -83,7 +88,8 @@
         "nicknames": [
             "妹法",
             "阿卡丽"
-        ]
+        ],
+        "max_star": 6
     },
     "1007": {
         "location": "front",
@@ -96,7 +102,8 @@
         "main_nickname": "布丁",
         "nicknames": [
             "布丁"
-        ]
+        ],
+        "max_star": 5
     },
     "1008": {
         "location": "behind",
@@ -113,7 +120,8 @@
             "镜",
             "伪娘",
             "镜子"
-        ]
+        ],
+        "max_star": 5
     },
     "1009": {
         "location": "middle",
@@ -127,7 +135,8 @@
         "nicknames": [
             "中二",
             "煤气罐"
-        ]
+        ],
+        "max_star": 5
     },
     "1010": {
         "location": "behind",
@@ -143,7 +152,8 @@
             "真扎",
             "maho",
             "咕噜灵波"
-        ]
+        ],
+        "max_star": 6
     },
     "1011": {
         "location": "behind",
@@ -156,7 +166,8 @@
         "main_nickname": "妹弓",
         "nicknames": [
             "妹弓"
-        ]
+        ],
+        "max_star": 6
     },
     "1012": {
         "location": "behind",
@@ -171,7 +182,8 @@
             "星星法",
             "星法",
             "睡法"
-        ]
+        ],
+        "max_star": 6
     },
     "1013": {
         "location": "behind",
@@ -186,7 +198,8 @@
             "娜娜卡",
             "77香",
             "nanaka"
-        ]
+        ],
+        "max_star": 5
     },
     "1014": {
         "location": "behind",
@@ -202,7 +215,8 @@
             "侦探",
             "驴妹",
             "霞"
-        ]
+        ],
+        "max_star": 5
     },
     "1015": {
         "location": "behind",
@@ -216,7 +230,8 @@
         "nicknames": [
             "圣母",
             "绿帽"
-        ]
+        ],
+        "max_star": 5
     },
     "1016": {
         "location": "behind",
@@ -232,7 +247,8 @@
             "政委",
             "辣妹弓",
             "秀才"
-        ]
+        ],
+        "max_star": 6
     },
     "1017": {
         "location": "front",
@@ -247,7 +263,8 @@
             "狗拳",
             "狗子",
             "狗拳"
-        ]
+        ],
+        "max_star": 5
     },
     "1018": {
         "location": "behind",
@@ -262,7 +279,8 @@
             "老师",
             "魅魔",
             "依绪"
-        ]
+        ],
+        "max_star": 6
     },
     "1020": {
         "location": "middle",
@@ -278,7 +296,8 @@
             "兔",
             "兔兔",
             "兔剑"
-        ]
+        ],
+        "max_star": 6
     },
     "1021": {
         "location": "front",
@@ -291,7 +310,8 @@
         "main_nickname": "铃铛",
         "nicknames": [
             "铃铛"
-        ]
+        ],
+        "max_star": 5
     },
     "1022": {
         "location": "middle",
@@ -308,7 +328,8 @@
             "尤里",
             "由里",
             "伊里"
-        ]
+        ],
+        "max_star": 6
     },
     "1023": {
         "location": "front",
@@ -321,7 +342,8 @@
         "main_nickname": "熊锤",
         "nicknames": [
             "熊锤"
-        ]
+        ],
+        "max_star": 6
     },
     "1025": {
         "location": "behind",
@@ -335,7 +357,8 @@
         "nicknames": [
             "女仆",
             "雀"
-        ]
+        ],
+        "max_star": 5
     },
     "1026": {
         "location": "middle",
@@ -348,7 +371,8 @@
         "main_nickname": "松鼠",
         "nicknames": [
             "松鼠"
-        ]
+        ],
+        "max_star": 5
     },
     "1027": {
         "location": "front",
@@ -361,7 +385,8 @@
         "main_nickname": "病娇",
         "nicknames": [
             "病娇"
-        ]
+        ],
+        "max_star": 5
     },
     "1028": {
         "location": "middle",
@@ -375,7 +400,8 @@
         "nicknames": [
             "充电宝",
             "普电"
-        ]
+        ],
+        "max_star": 6
     },
     "1029": {
         "location": "front",
@@ -388,7 +414,8 @@
         "main_nickname": "偶像",
         "nicknames": [
             "偶像"
-        ]
+        ],
+        "max_star": 5
     },
     "1030": {
         "location": "middle",
@@ -403,7 +430,8 @@
             "扇子",
             "妮诺",
             "将军"
-        ]
+        ],
+        "max_star": 6
     },
     "1031": {
         "location": "middle",
@@ -416,7 +444,8 @@
         "main_nickname": "忍",
         "nicknames": [
             "鬼父"
-        ]
+        ],
+        "max_star": 5
     },
     "1032": {
         "location": "front",
@@ -429,7 +458,8 @@
         "main_nickname": "哈哈剑",
         "nicknames": [
             "哈哈剑"
-        ]
+        ],
+        "max_star": 6
     },
     "1033": {
         "location": "middle",
@@ -442,7 +472,8 @@
         "main_nickname": "奶牛",
         "nicknames": [
             "奶牛"
-        ]
+        ],
+        "max_star": 6
     },
     "1034": {
         "location": "middle",
@@ -458,7 +489,8 @@
             "奶骑",
             "酒鬼",
             "圣骑"
-        ]
+        ],
+        "max_star": 6
     },
     "1036": {
         "location": "behind",
@@ -473,7 +505,8 @@
             "xcw",
             "小仓唯",
             "喷水萝莉"
-        ]
+        ],
+        "max_star": 6
     },
     "1037": {
         "location": "front",
@@ -487,7 +520,8 @@
         "nicknames": [
             "tomo",
             "卜毛"
-        ]
+        ],
+        "max_star": 5
     },
     "1038": {
         "location": "behind",
@@ -501,7 +535,8 @@
         "nicknames": [
             "tp弓",
             "白虎弓"
-        ]
+        ],
+        "max_star": 5
     },
     "1040": {
         "location": "behind",
@@ -517,7 +552,8 @@
             "香菜",
             "毒弓",
             "绿帽弓"
-        ]
+        ],
+        "max_star": 5
     },
     "1042": {
         "location": "behind",
@@ -531,7 +567,8 @@
         "nicknames": [
             "绿毛奶",
             "契卡"
-        ]
+        ],
+        "max_star": 5
     },
     "1043": {
         "location": "front",
@@ -547,7 +584,8 @@
             "狼姐",
             "狼妹",
             "月月"
-        ]
+        ],
+        "max_star": 5
     },
     "1044": {
         "location": "middle",
@@ -562,7 +600,8 @@
             "yly",
             "伊利亚",
             "那个女人"
-        ]
+        ],
+        "max_star": 5
     },
     "1045": {
         "location": "front",
@@ -575,7 +614,8 @@
         "main_nickname": "空花",
         "nicknames": [
             "抖m"
-        ]
+        ],
+        "max_star": 5
     },
     "1046": {
         "location": "front",
@@ -588,7 +628,8 @@
         "main_nickname": "猫剑",
         "nicknames": [
             "猫剑"
-        ]
+        ],
+        "max_star": 6
     },
     "1047": {
         "location": "front",
@@ -602,7 +643,8 @@
         "nicknames": [
             "黑骑",
             "saber"
-        ]
+        ],
+        "max_star": 5
     },
     "1048": {
         "location": "middle",
@@ -615,7 +657,8 @@
         "main_nickname": "子龙",
         "nicknames": [
             "子龙"
-        ]
+        ],
+        "max_star": 6
     },
     "1049": {
         "location": "front",
@@ -628,7 +671,8 @@
         "main_nickname": "姐姐",
         "nicknames": [
             "姐姐"
-        ]
+        ],
+        "max_star": 6
     },
     "1050": {
         "location": "behind",
@@ -642,7 +686,8 @@
         "nicknames": [
             "大眼",
             "眼球法"
-        ]
+        ],
+        "max_star": 5
     },
     "1051": {
         "location": "middle",
@@ -656,7 +701,8 @@
         "nicknames": [
             "眼罩",
             "抖s"
-        ]
+        ],
+        "max_star": 5
     },
     "1052": {
         "location": "front",
@@ -670,7 +716,8 @@
         "nicknames": [
             "羊驼",
             "草泥马"
-        ]
+        ],
+        "max_star": 6
     },
     "1053": {
         "location": "middle",
@@ -684,7 +731,8 @@
         "nicknames": [
             "毛二力",
             "莫尼卡"
-        ]
+        ],
+        "max_star": 5
     },
     "1054": {
         "location": "front",
@@ -697,7 +745,8 @@
         "main_nickname": "裁缝",
         "nicknames": [
             "裁缝"
-        ]
+        ],
+        "max_star": 5
     },
     "1055": {
         "location": "middle",
@@ -712,7 +761,8 @@
             "路人妹",
             "女路人",
             "步美"
-        ]
+        ],
+        "max_star": 5
     },
     "1056": {
         "location": "front",
@@ -729,7 +779,8 @@
             "luka",
             "儿力",
             "大姐"
-        ]
+        ],
+        "max_star": 5
     },
     "1057": {
         "location": "front",
@@ -745,7 +796,8 @@
             "团长",
             "qks",
             "骑空士"
-        ]
+        ],
+        "max_star": 5
     },
     "1058": {
         "location": "front",
@@ -760,7 +812,8 @@
             "佩可",
             "吃货",
             "贪吃佩可"
-        ]
+        ],
+        "max_star": 6
     },
     "1059": {
         "location": "middle",
@@ -777,7 +830,8 @@
             "白毛",
             "普白",
             "可可罗"
-        ]
+        ],
+        "max_star": 6
     },
     "1060": {
         "location": "behind",
@@ -792,7 +846,8 @@
             "黑猫",
             "臭鼬",
             "普黑"
-        ]
+        ],
+        "max_star": 6
     },
     "1061": {
         "location": "front",
@@ -807,7 +862,8 @@
             "511",
             "夏娜",
             "无意义"
-        ]
+        ],
+        "max_star": 5
     },
     "1063": {
         "location": "behind",
@@ -824,7 +880,20 @@
             "鸭梨瞎",
             "亚莉莎",
             "亚里沙"
-        ]
+        ],
+        "max_star": 5
+    },
+    "1064": {
+        "location": "middle",
+        "cn_exists": false,
+        "range": 368,
+        "init_star": 3,
+        "cn_name": "雪菲",
+        "jp_name": "シェフィ",
+        "tw_name": "",
+        "main_nickname": "",
+        "nicknames": [],
+        "max_star": 5
     },
     "1065": {
         "location": "front",
@@ -840,7 +909,8 @@
             "卡雅",
             "卡亚",
             "卡姐"
-        ]
+        ],
+        "max_star": 5
     },
     "1066": {
         "location": "front",
@@ -854,7 +924,8 @@
         "nicknames": [
             "梨老八",
             "祈"
-        ]
+        ],
+        "max_star": 5
     },
     "1067": {
         "location": null,
@@ -867,7 +938,8 @@
         "main_nickname": "誉",
         "nicknames": [
             "誉"
-        ]
+        ],
+        "max_star": 5
     },
     "1068": {
         "location": "middle",
@@ -881,7 +953,8 @@
         "nicknames": [
             "晶",
             "迷宫女王"
-        ]
+        ],
+        "max_star": 5
     },
     "1069": {
         "location": null,
@@ -895,7 +968,8 @@
         "nicknames": [
             "霸瞳",
             "霸瞳皇帝"
-        ]
+        ],
+        "max_star": 5
     },
     "1070": {
         "location": "behind",
@@ -915,7 +989,8 @@
             "奶奶卡",
             "变貌大妃",
             "变貌"
-        ]
+        ],
+        "max_star": 5
     },
     "1071": {
         "location": "front",
@@ -931,7 +1006,8 @@
             "女帝",
             "克",
             "克姐"
-        ]
+        ],
+        "max_star": 5
     },
     "1073": {
         "location": null,
@@ -944,7 +1020,8 @@
         "main_nickname": "跳跃王",
         "nicknames": [
             "跳跃王"
-        ]
+        ],
+        "max_star": 5
     },
     "1075": {
         "location": "front",
@@ -960,7 +1037,8 @@
             "水吃货",
             "泼妇",
             "夏日佩可莉姆"
-        ]
+        ],
+        "max_star": 5
     },
     "1076": {
         "location": "middle",
@@ -975,7 +1053,8 @@
             "水妈",
             "水白",
             "夏日可可萝"
-        ]
+        ],
+        "max_star": 5
     },
     "1077": {
         "location": "behind",
@@ -989,7 +1068,8 @@
         "nicknames": [
             "水女仆",
             "夏日铃莓"
-        ]
+        ],
+        "max_star": 5
     },
     "1078": {
         "location": "behind",
@@ -1005,7 +1085,8 @@
             "潶",
             "水黑猫",
             "夏日凯留"
-        ]
+        ],
+        "max_star": 5
     },
     "1079": {
         "location": "front",
@@ -1020,7 +1101,8 @@
             "水猫剑",
             "水猫",
             "夏日珠希"
-        ]
+        ],
+        "max_star": 5
     },
     "1080": {
         "location": "middle",
@@ -1035,7 +1117,8 @@
             "水美冬",
             "水子龙",
             "夏日美冬"
-        ]
+        ],
+        "max_star": 5
     },
     "1081": {
         "location": "middle",
@@ -1051,7 +1134,8 @@
             "万圣忍",
             "鬼忍",
             "万圣节忍"
-        ]
+        ],
+        "max_star": 5
     },
     "1082": {
         "location": "middle",
@@ -1067,7 +1151,8 @@
             "万圣布丁",
             "狼丁",
             "万圣宫子"
-        ]
+        ],
+        "max_star": 5
     },
     "1083": {
         "location": "behind",
@@ -1083,7 +1168,8 @@
             "万圣美咲",
             "万圣大眼",
             "万圣节美咲"
-        ]
+        ],
+        "max_star": 5
     },
     "1084": {
         "location": "behind",
@@ -1099,7 +1185,8 @@
             "圣诞千歌",
             "圣歌",
             "圣诞节千歌"
-        ]
+        ],
+        "max_star": 5
     },
     "1085": {
         "location": "front",
@@ -1114,7 +1201,8 @@
             "圣诞胡桃",
             "圣诞铃铛",
             "圣诞节胡桃"
-        ]
+        ],
+        "max_star": 5
     },
     "1086": {
         "location": "front",
@@ -1129,7 +1217,8 @@
             "圣诞熊锤",
             "圣锤",
             "圣诞节绫音"
-        ]
+        ],
+        "max_star": 5
     },
     "1087": {
         "location": "front",
@@ -1146,7 +1235,8 @@
             "新年日和",
             "新春猫拳",
             "新春日和"
-        ]
+        ],
+        "max_star": 5
     },
     "1088": {
         "location": "behind",
@@ -1163,7 +1253,8 @@
             "春优",
             "新年优衣",
             "新春优衣"
-        ]
+        ],
+        "max_star": 5
     },
     "1089": {
         "location": "front",
@@ -1180,7 +1271,8 @@
             "新春剑",
             "春怜",
             "新年剑圣"
-        ]
+        ],
+        "max_star": 5
     },
     "1090": {
         "location": "front",
@@ -1197,7 +1289,8 @@
             "情人节病娇",
             "恋病",
             "情人病"
-        ]
+        ],
+        "max_star": 5
     },
     "1091": {
         "location": "middle",
@@ -1214,7 +1307,8 @@
             "情人节姐姐",
             "恋姐",
             "情人姐"
-        ]
+        ],
+        "max_star": 5
     },
     "1092": {
         "location": "behind",
@@ -1227,7 +1321,8 @@
         "main_nickname": "安",
         "nicknames": [
             "55kg"
-        ]
+        ],
+        "max_star": 5
     },
     "1093": {
         "location": "behind",
@@ -1238,7 +1333,8 @@
         "jp_name": "ルゥ",
         "tw_name": "露",
         "main_nickname": "露",
-        "nicknames": []
+        "nicknames": [],
+        "max_star": 5
     },
     "1094": {
         "location": "middle",
@@ -1251,7 +1347,8 @@
         "main_nickname": "龙姬",
         "nicknames": [
             "龙姬"
-        ]
+        ],
+        "max_star": 5
     },
     "1095": {
         "location": "front",
@@ -1270,7 +1367,8 @@
             "花m",
             "和服空花",
             "大江户空花"
-        ]
+        ],
+        "max_star": 5
     },
     "1096": {
         "location": "front",
@@ -1285,7 +1383,8 @@
             "江户扇子",
             "忍扇",
             "大江户妮诺"
-        ]
+        ],
+        "max_star": 5
     },
     "1097": {
         "location": "middle",
@@ -1296,7 +1395,8 @@
         "jp_name": "レム",
         "tw_name": "雷姆",
         "main_nickname": "蕾姆",
-        "nicknames": []
+        "nicknames": [],
+        "max_star": 5
     },
     "1098": {
         "location": "middle",
@@ -1307,7 +1407,8 @@
         "jp_name": "ラム",
         "tw_name": "拉姆",
         "main_nickname": "拉姆",
-        "nicknames": []
+        "nicknames": [],
+        "max_star": 5
     },
     "1099": {
         "location": "behind",
@@ -1321,7 +1422,8 @@
         "nicknames": [
             "emt",
             "爱蜜莉雅"
-        ]
+        ],
+        "max_star": 5
     },
     "1100": {
         "location": "behind",
@@ -1337,7 +1439,8 @@
             "水暴弓",
             "瀑",
             "夏日铃奈"
-        ]
+        ],
+        "max_star": 5
     },
     "1101": {
         "location": "behind",
@@ -1354,7 +1457,8 @@
             "泳装魅魔",
             "泳装老师",
             "夏日伊绪"
-        ]
+        ],
+        "max_star": 5
     },
     "1103": {
         "location": "middle",
@@ -1371,7 +1475,8 @@
             "水电",
             "泳装充电宝",
             "泳装咲恋"
-        ]
+        ],
+        "max_star": 5
     },
     "1104": {
         "location": "front",
@@ -1386,7 +1491,8 @@
             "水狼",
             "浪",
             "夏日真琴"
-        ]
+        ],
+        "max_star": 5
     },
     "1105": {
         "location": "middle",
@@ -1400,7 +1506,8 @@
         "nicknames": [
             "水狗",
             "夏日香织"
-        ]
+        ],
+        "max_star": 5
     },
     "1106": {
         "location": "behind",
@@ -1417,7 +1524,8 @@
             "水狐",
             "水壶",
             "水噜灵波"
-        ]
+        ],
+        "max_star": 5
     },
     "1107": {
         "location": "behind",
@@ -1431,7 +1539,8 @@
         "nicknames": [
             "生菜",
             "插班生碧"
-        ]
+        ],
+        "max_star": 5
     },
     "1108": {
         "location": "front",
@@ -1446,7 +1555,8 @@
             "华哥",
             "花子",
             "黑江"
-        ]
+        ],
+        "max_star": 5
     },
     "1109": {
         "location": "front",
@@ -1460,7 +1570,8 @@
         "nicknames": [
             "切噜",
             "知惠"
-        ]
+        ],
+        "max_star": 5
     },
     "1110": {
         "location": "behind",
@@ -1473,7 +1584,8 @@
         "main_nickname": "优妮",
         "nicknames": [
             "优妮"
-        ]
+        ],
+        "max_star": 5
     },
     "1111": {
         "location": "behind",
@@ -1490,7 +1602,8 @@
             "猫唯",
             "猫仓",
             "mcw"
-        ]
+        ],
+        "max_star": 5
     },
     "1112": {
         "location": "front",
@@ -1508,7 +1621,8 @@
             "圣弹人",
             "圣蛋人",
             "瓜炸"
-        ]
+        ],
+        "max_star": 5
     },
     "1113": {
         "location": "middle",
@@ -1524,7 +1638,8 @@
             "万圣兔兔",
             "万圣兔子",
             "万圣节美美"
-        ]
+        ],
+        "max_star": 5
     },
     "1114": {
         "location": "behind",
@@ -1535,7 +1650,8 @@
         "jp_name": "ルナ",
         "tw_name": "露娜",
         "main_nickname": "露娜",
-        "nicknames": []
+        "nicknames": [],
+        "max_star": 5
     },
     "1115": {
         "location": "front",
@@ -1552,7 +1668,8 @@
             "圣诞克总",
             "圣克",
             "圣诞节克里斯蒂娜"
-        ]
+        ],
+        "max_star": 5
     },
     "1116": {
         "location": "middle",
@@ -1567,7 +1684,8 @@
             "圣诞偶像",
             "圣诞望",
             "圣诞节望"
-        ]
+        ],
+        "max_star": 5
     },
     "1117": {
         "location": "front",
@@ -1584,13 +1702,14 @@
             "圣诞伊莉雅",
             "圣诞伊利亚",
             "圣伊"
-        ]
+        ],
+        "max_star": 5
     },
     "1118": {
-        "location": null,
+        "location": "front",
         "cn_exists": false,
-        "range": null,
-        "init_star": null,
+        "range": 248,
+        "init_star": 3,
         "cn_name": "佩可莉姆（新年）",
         "jp_name": "ペコリーヌ（ニューイヤー）",
         "tw_name": "貪吃佩可（新年）",
@@ -1599,7 +1718,8 @@
             "春吃",
             "新年佩可",
             "新年贪吃佩可"
-        ]
+        ],
+        "max_star": 5
     },
     "1119": {
         "location": "front",
@@ -1615,7 +1735,8 @@
             "春妈",
             "新年可可萝",
             "新春可可萝"
-        ]
+        ],
+        "max_star": 5
     },
     "1120": {
         "location": "behind",
@@ -1624,7 +1745,7 @@
         "init_star": 3,
         "cn_name": "凯露（新年）",
         "jp_name": "キャル（ニューイヤー）",
-        "tw_name": "新春凯露",
+        "tw_name": "凯留（新年）",
         "main_nickname": "春黑",
         "nicknames": [
             "春黑",
@@ -1633,7 +1754,8 @@
             "春鼬",
             "新年凯留",
             "春黑"
-        ]
+        ],
+        "max_star": 5
     },
     "1121": {
         "location": "behind",
@@ -1648,7 +1770,8 @@
             "春女仆",
             "新年女仆",
             "新年铃莓"
-        ]
+        ],
+        "max_star": 5
     },
     "1122": {
         "location": "behind",
@@ -1665,7 +1788,8 @@
             "魔法侦探",
             "魔法霞",
             "魔法少女霞"
-        ]
+        ],
+        "max_star": 5
     },
     "1123": {
         "location": "behind",
@@ -1681,7 +1805,8 @@
             "魔弓",
             "法弓",
             "魔法少女栞"
-        ]
+        ],
+        "max_star": 5
     },
     "1124": {
         "location": "middle",
@@ -1696,7 +1821,8 @@
             "卯月",
             "卵用",
             "偶像大师岛村卯月"
-        ]
+        ],
+        "max_star": 5
     },
     "1125": {
         "location": "front",
@@ -1711,7 +1837,8 @@
             "涉谷凛",
             "凛",
             "偶像大师涉谷凛"
-        ]
+        ],
+        "max_star": 5
     },
     "1126": {
         "location": "behind",
@@ -1725,7 +1852,8 @@
         "nicknames": [
             "偶像大师本田未央",
             "mio"
-        ]
+        ],
+        "max_star": 5
     },
     "1127": {
         "location": "middle",
@@ -1740,7 +1868,8 @@
             "游侠松鼠",
             "武松",
             "钻头哥"
-        ]
+        ],
+        "max_star": 5
     },
     "1128": {
         "location": "middle",
@@ -1754,7 +1883,8 @@
         "nicknames": [
             "游侠真阳",
             "斗牛"
-        ]
+        ],
+        "max_star": 5
     },
     "1129": {
         "location": "behind",
@@ -1769,7 +1899,8 @@
             "爱弓",
             "爽弓",
             "爽妹"
-        ]
+        ],
+        "max_star": 5
     },
     "1130": {
         "location": "middle",
@@ -1782,7 +1913,8 @@
         "main_nickname": "梦路",
         "nicknames": [
             "梦路"
-        ]
+        ],
+        "max_star": 5
     },
     "1131": {
         "location": "front",
@@ -1796,7 +1928,8 @@
         "nicknames": [
             "水流",
             "水流夏"
-        ]
+        ],
+        "max_star": 5
     },
     "1132": {
         "location": "front",
@@ -1810,7 +1943,8 @@
         "nicknames": [
             "水中二",
             "冲二"
-        ]
+        ],
+        "max_star": 5
     },
     "1133": {
         "location": "middle",
@@ -1823,7 +1957,8 @@
         "main_nickname": "水七",
         "nicknames": [
             "水七"
-        ]
+        ],
+        "max_star": 5
     },
     "1134": {
         "location": "middle",
@@ -1837,7 +1972,8 @@
         "nicknames": [
             "水星",
             "海星"
-        ]
+        ],
+        "max_star": 5
     },
     "1135": {
         "location": "behind",
@@ -1851,7 +1987,8 @@
         "nicknames": [
             "水母",
             "水美里"
-        ]
+        ],
+        "max_star": 5
     },
     "1136": {
         "location": "front",
@@ -1865,7 +2002,8 @@
         "nicknames": [
             "水黑骑",
             "水骑"
-        ]
+        ],
+        "max_star": 5
     },
     "1137": {
         "location": "middle",
@@ -1874,11 +2012,12 @@
         "init_star": 3,
         "cn_name": "茜里（天使）",
         "jp_name": "アカリ（エンジェル）",
-        "tw_name": "",
+        "tw_name": "茜里（天使）",
         "main_nickname": "天使妹法",
         "nicknames": [
             "天使妹法"
-        ]
+        ],
+        "max_star": 5
     },
     "1138": {
         "location": "middle",
@@ -1887,11 +2026,12 @@
         "init_star": 3,
         "cn_name": "依里（天使）",
         "jp_name": "ヨリ（エンジェル）",
-        "tw_name": "",
+        "tw_name": "依里（天使）",
         "main_nickname": "天使姐法",
         "nicknames": [
             "天使姐法"
-        ]
+        ],
+        "max_star": 5
     },
     "1139": {
         "location": "front",
@@ -1908,7 +2048,8 @@
             "瓜裁",
             "万圣裁缝",
             "万圣蜘蛛侠"
-        ]
+        ],
+        "max_star": 5
     },
     "1140": {
         "location": "middle",
@@ -1924,7 +2065,8 @@
             "瓜怜",
             "万圣剑圣",
             "万剑"
-        ]
+        ],
+        "max_star": 5
     },
     "1141": {
         "location": "front",
@@ -1939,7 +2081,8 @@
             "瓜虎",
             "万圣老虎",
             "万圣跳跳虎"
-        ]
+        ],
+        "max_star": 5
     },
     "1142": {
         "location": "middle",
@@ -1952,7 +2095,8 @@
         "main_nickname": "魔法少女莫妮卡",
         "nicknames": [
             "魔二力"
-        ]
+        ],
+        "max_star": 5
     },
     "1143": {
         "location": "middle",
@@ -1965,7 +2109,8 @@
         "main_nickname": "魔法少女智",
         "nicknames": [
             "9智"
-        ]
+        ],
+        "max_star": 5
     },
     "1144": {
         "location": "front",
@@ -1974,13 +2119,14 @@
         "init_star": 3,
         "cn_name": "秋乃(圣诞节)",
         "jp_name": "アキノ(クリスマス)",
-        "tw_name": "（聖誕節）",
+        "tw_name": "秋乃（聖誕節）",
         "main_nickname": "圣诞哈哈剑",
         "nicknames": [
             "生煎",
             "圣哈",
             "圣剑"
-        ]
+        ],
+        "max_star": 5
     },
     "1145": {
         "location": "front",
@@ -1989,13 +2135,14 @@
         "init_star": 3,
         "cn_name": "咲恋(圣诞节)",
         "jp_name": "サレン(クリスマス)",
-        "tw_name": "（聖誕節）",
+        "tw_name": "咲恋（聖誕節）",
         "main_nickname": "圣诞咲恋",
         "nicknames": [
             "圣诞充电宝",
             "圣电",
             "圣充"
-        ]
+        ],
+        "max_star": 5
     },
     "1146": {
         "location": "middle",
@@ -2010,7 +2157,99 @@
             "蛋黄",
             "蛋骑",
             "圣诞圣骑"
-        ]
+        ],
+        "max_star": 5
+    },
+    "1147": {
+        "location": "front",
+        "cn_exists": false,
+        "range": 138,
+        "init_star": 1,
+        "cn_name": "矛依未（新年）",
+        "jp_name": "ムイミ（ニューイヤー）",
+        "tw_name": "矛依未（新年）",
+        "main_nickname": "春511",
+        "nicknames": [],
+        "max_star": 5
+    },
+    "1150": {
+        "location": "middle",
+        "cn_exists": false,
+        "range": 562,
+        "init_star": 3,
+        "cn_name": "似似花（新年）",
+        "jp_name": "ネネカ（ニューイヤー）",
+        "tw_name": "似似花（新年）",
+        "main_nickname": "春448",
+        "nicknames": [
+            "春妃",
+            "春nnk"
+        ],
+        "max_star": 5
+    },
+    "1155": {
+        "location": "middle",
+        "cn_exists": false,
+        "range": 533,
+        "init_star": 3,
+        "cn_name": "可可萝（礼服）",
+        "jp_name": "コッコロ（儀装束）",
+        "tw_name": "可可蘿（儀装束）",
+        "main_nickname": "礼妈",
+        "nicknames": [
+            "礼白"
+        ],
+        "max_star": 5
+    },
+    "1156": {
+        "location": "middle",
+        "cn_exists": false,
+        "range": 578,
+        "init_star": 1,
+        "cn_name": "优衣（礼服）",
+        "jp_name": "ユイ（儀装束）",
+        "tw_name": "優衣（儀装束）",
+        "main_nickname": "礼衣",
+        "nicknames": [
+            "礼田"
+        ],
+        "max_star": 5
+    },
+    "1157": {
+        "location": "behind",
+        "cn_exists": false,
+        "range": 738,
+        "init_star": 3,
+        "cn_name": "霞（夏日）",
+        "jp_name": "カスミ（サマー）",
+        "tw_name": "霞（夏日）",
+        "main_nickname": "水驴",
+        "nicknames": [],
+        "max_star": 5
+    },
+    "1158": {
+        "location": "front",
+        "cn_exists": false,
+        "range": 173,
+        "init_star": 1,
+        "cn_name": "莉玛（灰姑娘）",
+        "jp_name": "リマ（シンデレラ）",
+        "tw_name": "莉瑪（灰姑娘）",
+        "main_nickname": "灰羊",
+        "nicknames": [],
+        "max_star": 5
+    },
+    "1159": {
+        "location": "front",
+        "cn_exists": false,
+        "range": 166,
+        "init_star": 3,
+        "cn_name": "真琴（灰姑娘）",
+        "jp_name": "マコト（シンデレラ）",
+        "tw_name": "真琴（灰姑娘）",
+        "main_nickname": "灰狼",
+        "nicknames": [],
+        "max_star": 5
     },
     "1701": {
         "location": "middle",
@@ -2024,7 +2263,8 @@
         "nicknames": [
             "毛大力",
             "桥本"
-        ]
+        ],
+        "max_star": 5
     },
     "1702": {
         "location": "middle",
@@ -2038,7 +2278,8 @@
         "nicknames": [
             "甄嬛",
             "振环"
-        ]
+        ],
+        "max_star": 5
     },
     "1802": {
         "location": "behind",
@@ -2053,7 +2294,8 @@
             "公主优衣",
             "高达优衣",
             "飞翼优衣"
-        ]
+        ],
+        "max_star": 5
     },
     "1804": {
         "location": "front",
@@ -2071,7 +2313,8 @@
             "命运",
             "命运高达",
             "公主佩可莉姆"
-        ]
+        ],
+        "max_star": 5
     },
     "1805": {
         "location": "middle",
@@ -2087,6 +2330,21 @@
             "公主可可萝",
             "月光蝶",
             "飞妈"
-        ]
+        ],
+        "max_star": 5
+    },
+    "1806": {
+        "location": "behind",
+        "cn_exists": false,
+        "range": 747,
+        "init_star": 3,
+        "cn_name": "凯露（公主）",
+        "jp_name": "キャル（プリンセス）",
+        "tw_name": "凯留（公主）",
+        "main_nickname": "天猫",
+        "nicknames": [
+            "公主黑猫"
+        ],
+        "max_star": 5
     }
 }

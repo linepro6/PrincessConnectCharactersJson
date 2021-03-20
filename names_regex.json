@@ -1,702 +1,602 @@
 {
     "1001": {
-        "desc_game": true,
         "loose_regex": "日和莉|ヒヨリ|日和|猫拳|猫",
         "strict_regex": "日和莉|ヒヨリ|日和|猫拳|猫"
     },
     "1002": {
-        "desc_game": true,
         "loose_regex": "优衣|ユイ|優衣|ue|种田|u1",
         "strict_regex": "优衣|ユイ|優衣|ue|种田|u1"
     },
     "1003": {
-        "desc_game": true,
         "loose_regex": "怜|レイ|怜|剑圣",
         "strict_regex": "怜|レイ|怜|剑圣"
     },
     "1004": {
-        "desc_game": true,
         "loose_regex": "未奏希|ミソギ|禊|炸弹人|炸弹|熊孩子",
         "strict_regex": "未奏希|ミソギ|禊|炸弹人|炸弹|熊孩子"
     },
     "1005": {
-        "desc_game": true,
         "loose_regex": "茉莉|マツリ|茉莉|跳跳虎|虎|跳刀虎|马自立",
         "strict_regex": "茉莉|マツリ|茉莉|跳跳虎|虎|跳刀虎|马自立"
     },
     "1006": {
-        "desc_game": true,
         "loose_regex": "茜里|アカリ|茜里|妹法|阿卡丽",
         "strict_regex": "茜里|アカリ|茜里|妹法|阿卡丽"
     },
     "1007": {
-        "desc_game": true,
         "loose_regex": "宫子|ミヤコ|宫子|布丁",
         "strict_regex": "宫子|ミヤコ|宫子|布丁"
     },
     "1008": {
-        "desc_game": true,
         "loose_regex": "雪|ユキ|雪|镜子|雪哥|镜|伪娘",
         "strict_regex": "雪|ユキ|雪|镜子|雪哥|镜|伪娘"
     },
     "1009": {
-        "desc_game": true,
         "loose_regex": "杏奈|アンナ|杏奈|中二|煤气罐",
         "strict_regex": "杏奈|アンナ|杏奈|中二|煤气罐"
     },
     "1010": {
-        "desc_game": true,
         "loose_regex": "真步|マホ|真布|狐狸|真扎|maho|咕噜灵波",
         "strict_regex": "真步|マホ|真布|狐狸|真扎|maho|咕噜灵波"
     },
     "1011": {
-        "desc_game": true,
         "loose_regex": "璃乃|リノ|璃乃|妹弓",
         "strict_regex": "璃乃|リノ|璃乃|妹弓"
     },
     "1012": {
-        "desc_game": true,
         "loose_regex": "初音|ハツネ|初音|初音|星星法|星法|睡法",
         "strict_regex": "初音|ハツネ|初音|初音|星星法|星法|睡法"
     },
     "1013": {
-        "desc_game": true,
         "loose_regex": "七七香|ナナカ|七七香|七七香|娜娜卡|77香|nanaka",
         "strict_regex": "七七香|ナナカ|七七香|七七香|娜娜卡|77香|nanaka"
     },
     "1014": {
-        "desc_game": false,
         "loose_regex": "香澄|カスミ|霞|驴|侦探|驴妹|霞",
         "strict_regex": "香澄|カスミ|霞|驴|侦探|驴妹|霞"
     },
     "1015": {
-        "desc_game": true,
         "loose_regex": "美里|ミサト|美里|圣母|绿帽",
         "strict_regex": "美里|ミサト|美里|圣母|绿帽"
     },
     "1016": {
-        "desc_game": true,
         "loose_regex": "铃奈|スズナ|鈴奈|暴击弓|政委|辣妹弓|秀才",
         "strict_regex": "铃奈|スズナ|鈴奈|暴击弓|政委|辣妹弓|秀才"
     },
     "1017": {
-        "desc_game": true,
         "loose_regex": "香织|カオリ|香織|狗拳|狗子|狗拳|狗",
         "strict_regex": "香织|カオリ|香織|狗拳|狗子|狗拳|狗"
     },
     "1018": {
-        "desc_game": true,
         "loose_regex": "伊绪|イオ|伊緒|老师|魅魔|依绪",
         "strict_regex": "伊绪|イオ|伊緒|老师|魅魔|依绪"
     },
     "1020": {
-        "desc_game": true,
         "loose_regex": "美美|ミミ|美美|兔子|兔|兔兔|兔剑",
         "strict_regex": "美美|ミミ|美美|兔子|兔|兔兔|兔剑"
     },
     "1021": {
-        "desc_game": true,
         "loose_regex": "胡桃|クルミ|胡桃|铃铛",
         "strict_regex": "胡桃|クルミ|胡桃|铃铛"
     },
     "1022": {
-        "desc_game": true,
         "loose_regex": "依里|ヨリ|依里|姐法|姐姐法|尤里|由里|伊里",
         "strict_regex": "依里|ヨリ|依里|姐法|姐姐法|尤里|由里|伊里"
     },
     "1023": {
-        "desc_game": true,
         "loose_regex": "绫音|アヤネ|綾音|熊锤",
         "strict_regex": "绫音|アヤネ|綾音|熊锤"
     },
     "1025": {
-        "desc_game": true,
         "loose_regex": "铃莓|スズメ|鈴莓|女仆|雀",
         "strict_regex": "铃莓|スズメ|鈴莓|女仆|雀"
     },
     "1026": {
-        "desc_game": true,
         "loose_regex": "铃|リン|鈴|松鼠",
         "strict_regex": "铃|リン|鈴|松鼠"
     },
     "1027": {
-        "desc_game": true,
         "loose_regex": "惠理子|エリコ|惠理子|病娇",
         "strict_regex": "惠理子|エリコ|惠理子|病娇"
     },
     "1028": {
-        "desc_game": true,
         "loose_regex": "咲恋|サレン|咲戀|咲恋|充电宝|普电",
         "strict_regex": "咲恋|サレン|咲戀|咲恋|充电宝|普电"
     },
     "1029": {
-        "desc_game": true,
         "loose_regex": "望|ノゾミ|望|偶像",
         "strict_regex": "望|ノゾミ|望|偶像"
     },
     "1030": {
-        "desc_game": true,
         "loose_regex": "妮侬|ニノン|妮諾|扇子|妮诺|将军",
         "strict_regex": "妮侬|ニノン|妮諾|扇子|妮诺|将军"
     },
     "1031": {
-        "desc_game": true,
         "loose_regex": "忍|シノブ|忍|忍|鬼父",
         "strict_regex": "忍|シノブ|忍|忍|鬼父"
     },
     "1032": {
-        "desc_game": true,
         "loose_regex": "秋乃|アキノ|秋乃|哈哈剑",
         "strict_regex": "秋乃|アキノ|秋乃|哈哈剑"
     },
     "1033": {
-        "desc_game": true,
         "loose_regex": "真阳|マヒル|真陽|奶牛",
         "strict_regex": "真阳|マヒル|真陽|奶牛"
     },
     "1034": {
-        "desc_game": true,
         "loose_regex": "由加莉|ユカリ|優花梨|黄骑|奶骑|酒鬼|圣骑",
         "strict_regex": "由加莉|ユカリ|優花梨|黄骑|奶骑|酒鬼|圣骑"
     },
     "1036": {
-        "desc_game": true,
         "loose_regex": "镜华|キョウカ|鏡華|xcw|小仓唯|喷水萝莉",
         "strict_regex": "镜华|キョウカ|鏡華|xcw|小仓唯|喷水萝莉"
     },
     "1037": {
-        "desc_game": true,
         "loose_regex": "智|トモ|智|智|tomo|卜毛",
         "strict_regex": "智|トモ|智|智|tomo|卜毛"
     },
     "1038": {
-        "desc_game": true,
         "loose_regex": "栞|シオリ|栞|tp弓|白虎弓|瘦弱",
         "strict_regex": "栞|シオリ|栞|tp弓|白虎弓|瘦弱"
     },
     "1040": {
-        "desc_game": true,
         "loose_regex": "碧|アオイ|碧|香菜弓|香菜|毒弓|绿帽弓|绿弓",
         "strict_regex": "碧|アオイ|碧|香菜弓|香菜|毒弓|绿帽弓|绿弓"
     },
     "1042": {
-        "desc_game": true,
         "loose_regex": "千歌|チカ|千歌|千歌|绿毛奶|契卡",
         "strict_regex": "千歌|チカ|千歌|千歌|绿毛奶|契卡"
     },
     "1043": {
-        "desc_game": true,
         "loose_regex": "真琴|マコト|真琴|狼|狼姐|狼妹|月月",
         "strict_regex": "真琴|マコト|真琴|狼|狼姐|狼妹|月月"
     },
     "1044": {
-        "desc_game": true,
         "loose_regex": "伊莉雅|イリヤ|伊莉亞|yly|伊利亚|那个女人",
         "strict_regex": "伊莉雅|イリヤ|伊莉亞|yly|伊利亚|那个女人"
     },
     "1045": {
-        "desc_game": true,
         "loose_regex": "空花|クウカ|空花|空花|抖m",
         "strict_regex": "空花|クウカ|空花|空花|抖m"
     },
     "1046": {
-        "desc_game": true,
         "loose_regex": "珠希|タマキ|珠希|猫剑|猫|普猫",
         "strict_regex": "珠希|タマキ|珠希|猫剑|猫|普猫"
     },
     "1047": {
-        "desc_game": true,
         "loose_regex": "纯|ジュン|純|黑骑|saber",
         "strict_regex": "纯|ジュン|純|黑骑|saber"
     },
     "1048": {
-        "desc_game": true,
         "loose_regex": "美冬|ミフユ|美东|子龙",
         "strict_regex": "美冬|ミフユ|美东|子龙"
     },
     "1049": {
-        "desc_game": true,
         "loose_regex": "静流|シズル|静流|姐姐",
         "strict_regex": "静流|シズル|静流|姐姐"
     },
     "1050": {
-        "desc_game": true,
         "loose_regex": "美咲|ミサキ|美咲|大眼|眼球法",
         "strict_regex": "美咲|ミサキ|美咲|大眼|眼球法"
     },
     "1051": {
-        "desc_game": true,
         "loose_regex": "深月|ミツキ|深月|深月|眼罩|抖s",
         "strict_regex": "深月|ミツキ|深月|深月|眼罩|抖s"
     },
     "1052": {
-        "desc_game": true,
         "loose_regex": "莉玛|リマ|莉瑪|羊驼|羊驼|草泥马",
         "strict_regex": "莉玛|リマ|莉瑪|羊驼|羊驼|草泥马"
     },
     "1053": {
-        "desc_game": true,
         "loose_regex": "莫妮卡|モニカ|莫妮卡|毛二力|莫尼卡",
         "strict_regex": "莫妮卡|モニカ|莫妮卡|毛二力|莫尼卡"
     },
     "1054": {
-        "desc_game": true,
         "loose_regex": "纺希|ツムギ|紡希|裁缝",
         "strict_regex": "纺希|ツムギ|紡希|裁缝"
     },
     "1055": {
-        "desc_game": false,
         "loose_regex": "步未|アユミ|步未|路人|路人妹|女路人|步美",
         "strict_regex": "步未|アユミ|步未|路人|路人妹|女路人|步美"
     },
     "1056": {
-        "desc_game": true,
         "loose_regex": "流夏|ルカ|卢卡|大姐|露卡|ruka|luka|儿力",
         "strict_regex": "流夏|ルカ|卢卡|大姐|露卡|ruka|luka|儿力"
     },
     "1057": {
-        "desc_game": true,
         "loose_regex": "姬塔|ジータ|吉塔|姬塔|吉他|团长|qks|骑空士",
         "strict_regex": "姬塔|ジータ|吉塔|姬塔|吉他|团长|qks|骑空士"
     },
     "1058": {
-        "desc_game": true,
         "loose_regex": "佩可莉姆|ペコリーヌ|貪吃佩可|佩可|吃货|贪吃佩可|配可",
         "strict_regex": "佩可莉姆|ペコリーヌ|貪吃佩可|佩可|吃货|贪吃佩可|配可"
     },
     "1059": {
-        "desc_game": true,
         "loose_regex": "可可萝|コッコロ|可可蘿|妈|kkr|白毛|普白|可可罗",
         "strict_regex": "可可萝|コッコロ|可可蘿|妈|kkr|白毛|普白|可可罗"
     },
     "1060": {
-        "desc_game": true,
         "loose_regex": "凯露|キャル|凯留|黑猫|臭鼬|普黑|接头霸王",
         "strict_regex": "凯露|キャル|凯留|黑猫|臭鼬|普黑|接头霸王"
     },
     "1061": {
-        "desc_game": false,
         "loose_regex": "矛依未|ムイミ|矛依未|511|夏娜|无意义|天楼霸断剑",
         "strict_regex": "矛依未|ムイミ|矛依未|511|夏娜|无意义|天楼霸断剑"
     },
     "1063": {
-        "desc_game": true,
         "loose_regex": "亚里莎|アリサ|亞里莎|yls|瞎子|鸭梨瞎|亚莉莎|亚里沙",
         "strict_regex": "亚里莎|アリサ|亞里莎|yls|瞎子|鸭梨瞎|亚莉莎|亚里沙"
     },
+    "1064": {
+        "loose_regex": "雪菲|シェフィ|雪菲|紫布菜|雪飞|雪非",
+        "strict_regex": "雪菲|シェフィ|雪菲|紫布菜|雪飞|雪非"
+    },
     "1065": {
-        "desc_game": false,
         "loose_regex": "嘉夜|カヤ|嘉夜|卡娅|卡雅|卡亚|卡姐",
         "strict_regex": "嘉夜|カヤ|嘉夜|卡娅|卡雅|卡亚|卡姐"
     },
     "1066": {
-        "desc_game": false,
         "loose_regex": "祈梨|イノリ|祈梨|梨老八|祈",
         "strict_regex": "祈梨|イノリ|祈梨|梨老八|祈"
     },
     "1067": {
-        "desc_game": false,
         "loose_regex": "穗希|ホマレ|穗希|誉",
         "strict_regex": "穗希|ホマレ|穗希|誉"
     },
     "1068": {
-        "desc_game": false,
         "loose_regex": "拉比林斯塔|ラビリスタ|拉比林斯塔|晶|迷宫女王|王晶",
         "strict_regex": "拉比林斯塔|ラビリスタ|拉比林斯塔|晶|迷宫女王|王晶"
     },
     "1069": {
-        "desc_game": false,
         "loose_regex": "真那|マナ|真那|霸瞳|霸瞳皇帝",
         "strict_regex": "真那|マナ|真那|霸瞳|霸瞳皇帝"
     },
     "1070": {
-        "desc_game": false,
         "loose_regex": "似似花|ネネカ|似似花|nnk|大妃|448|neneka|涅涅卡|奶奶卡|变貌大妃|变貌",
         "strict_regex": "似似花|ネネカ|似似花|nnk|大妃|448|neneka|涅涅卡|奶奶卡|变貌大妃|变貌"
     },
     "1071": {
-        "desc_game": false,
         "loose_regex": "克里斯蒂娜|クリスティーナ|克莉絲提娜|克总|女帝|克|克姐",
         "strict_regex": "克里斯蒂娜|クリスティーナ|克莉絲提娜|克总|女帝|克|克姐"
     },
     "1073": {
-        "desc_game": false,
         "loose_regex": "拉基拉基|ラジニカーント|拉基拉基|跳跃王",
         "strict_regex": "拉基拉基|ラジニカーント|拉基拉基|跳跃王"
     },
     "1092": {
-        "desc_game": false,
         "loose_regex": "安|アン|安|安|55kg",
         "strict_regex": "安|アン|安|安|55kg"
     },
     "1093": {
-        "desc_game": false,
         "loose_regex": "露|ルゥ|露|露",
         "strict_regex": "露|ルゥ|露|露"
     },
     "1094": {
-        "desc_game": false,
         "loose_regex": "古蕾雅|グレア|古蕾婭|龙姬",
         "strict_regex": "古蕾雅|グレア|古蕾婭|龙姬"
     },
     "1097": {
-        "desc_game": false,
         "loose_regex": "蕾姆|レム|雷姆|蕾姆",
         "strict_regex": "蕾姆|レム|雷姆|蕾姆"
     },
     "1098": {
-        "desc_game": false,
         "loose_regex": "拉姆|ラム|拉姆|拉姆",
         "strict_regex": "拉姆|ラム|拉姆|拉姆"
     },
     "1099": {
-        "desc_game": false,
         "loose_regex": "艾米莉亚|エミリア|愛蜜莉雅|emt|爱蜜莉雅|EMT",
         "strict_regex": "艾米莉亚|エミリア|愛蜜莉雅|emt|爱蜜莉雅|EMT"
     },
     "1108": {
-        "desc_game": false,
         "loose_regex": "克萝伊|クロエ|克蘿依|华哥|花子|黑江",
         "strict_regex": "克萝伊|クロエ|克蘿依|华哥|花子|黑江"
     },
     "1109": {
-        "desc_game": false,
         "loose_regex": "琪爱儿|チエル|琪愛兒|切噜|知惠",
         "strict_regex": "琪爱儿|チエル|琪愛兒|切噜|知惠"
     },
     "1110": {
-        "desc_game": false,
         "loose_regex": "优妮|ユニ|優妮|优妮|前辈|优妮前辈|仙贝|优妮仙贝",
         "strict_regex": "优妮|ユニ|優妮|优妮|前辈|优妮前辈|仙贝|优妮仙贝"
     },
     "1114": {
-        "desc_game": false,
         "loose_regex": "露娜|ルナ|露娜|露娜|xcw|充电xcw",
         "strict_regex": "露娜|ルナ|露娜|露娜|xcw|充电xcw"
     },
     "1124": {
-        "desc_game": false,
         "loose_regex": "岛村卯月（偶像大师）|ウヅキ（デレマス）|岛村卯月（偶像大师）|岛村卯月|卯月|卵用|偶像大师岛村卯月|岛村卯月偶像大师|岛村",
         "strict_regex": "岛村卯月（偶像大师）|ウヅキ（デレマス）|岛村卯月（偶像大师）|岛村卯月|卯月|卵用|偶像大师岛村卯月|岛村卯月偶像大师|岛村"
     },
     "1125": {
-        "desc_game": false,
         "loose_regex": "涉谷凛（偶像大师）|リン（デレマス）|涉谷凛（偶像大师）|涉谷凛|凛|偶像大师涉谷凛|涉谷凛偶像大师",
         "strict_regex": "涉谷凛（偶像大师）|リン（デレマス）|涉谷凛（偶像大师）|涉谷凛|凛|偶像大师涉谷凛|涉谷凛偶像大师"
     },
     "1126": {
-        "desc_game": false,
         "loose_regex": "本田未央（偶像大师）|ミオ（デレマス）|本田未央（偶像大师）|本田未央|偶像大师本田未央|mio|本田|本田未央偶像大师",
         "strict_regex": "本田未央（偶像大师）|ミオ（デレマス）|本田未央（偶像大师）|本田未央|偶像大师本田未央|mio|本田|本田未央偶像大师"
     },
     "1701": {
-        "desc_game": false,
         "loose_regex": "环奈|桥本|桥本环奈|毛大力",
         "strict_regex": "环奈|桥本|桥本环奈|毛大力"
     },
     "1095": {
-        "desc_game": false,
         "loose_regex": "(大?江户)?空花|((江|花|江户)m)|(空花|抖m)",
         "strict_regex": "(大?江户)空花|((江|花|江户)m)"
     },
     "1096": {
-        "desc_game": false,
         "loose_regex": "(江户扇子|忍扇|大江户妮侬)|(扇子|妮侬)",
         "strict_regex": "(江户扇子|忍扇|大江户妮侬)"
     },
     "1107": {
-        "desc_game": false,
         "loose_regex": "香菜|(插班生)?碧(插班生)?|生菜",
         "strict_regex": "生菜|插班生碧|碧插班生"
     },
     "1075": {
-        "desc_game": false,
         "loose_regex": "水吃|水吃货|泼妇|(泳装|夏日)?(佩可|佩可莉姆|配可)(泳装|夏日)?",
         "strict_regex": "水吃|水吃货|泼妇|(泳装|夏日)(佩可|佩可莉姆|配可)|(佩可|佩可莉姆|配可)(泳装|夏日)"
     },
     "1076": {
-        "desc_game": true,
         "loose_regex": "水妈|水白|(泳装|夏日)?(可可萝|妈|白毛)(泳装|夏日)?",
         "strict_regex": "水妈|水白|(泳装|夏日)(可可萝|妈|白毛)|(可可萝|妈|白毛)(泳装|夏日)"
     },
     "1077": {
-        "desc_game": true,
         "loose_regex": "水女仆|(泳装|夏日)?(女仆|铃莓)|(女仆|铃莓)(泳装|夏日)?",
         "strict_regex": "水女仆|(泳装|夏日)(女仆|铃莓)|(女仆|铃莓)(泳装|夏日)"
     },
     "1078": {
-        "desc_game": true,
         "loose_regex": "水黑|潶|(泳装|夏日|水)?(凯露|凯留|黑猫)(泳装|夏日)?",
         "strict_regex": "水黑|潶|(泳装|夏日|水)(凯露|凯留|黑猫)|(凯露|凯留|黑猫)(泳装|夏日)"
     },
     "1079": {
-        "desc_game": true,
         "loose_regex": "(夏日|泳装|水)?(珠希|猫剑|猫)(夏日|泳装)?",
         "strict_regex": "(夏日|泳装|水)(珠希|猫剑|猫)|(珠希|猫剑|猫)(夏日|泳装)"
     },
     "1080": {
-        "desc_game": true,
         "loose_regex": "(水|夏日|泳装)?(美东|子龙)(夏日|泳装)?",
         "strict_regex": "(水|夏日|泳装)(美东|子龙)|(美东|子龙)(夏日|泳装)"
     },
     "1100": {
-        "desc_game": false,
         "loose_regex": "水暴|(水|夏日|泳装)?(玲奈|暴弓|暴击弓)(夏日|泳装)?",
         "strict_regex": "水暴|(水|夏日|泳装)(玲奈|暴弓|暴击弓)|(玲奈|暴弓|暴击弓)(夏日|泳装)"
     },
     "1101": {
-        "desc_game": false,
         "loose_regex": "(水|夏日|泳装)?(伊绪|依绪|老师|魅魔)(夏日|泳装)?",
         "strict_regex": "(水|夏日|泳装)(伊绪|依绪|老师|魅魔)|(伊绪|依绪|老师|魅魔)(夏日|泳装)"
     },
     "1103": {
-        "desc_game": false,
-        "loose_regex": "水电|水电站|水充|(泳装|夏日)?咲恋(泳装|夏日)?",
+        "loose_regex": "水电|水电站|水充|(泳装|夏日)?(咲恋|充电宝)(泳装|夏日)?",
         "strict_regex": "水电|水电站|水充|(泳装|夏日)咲恋|咲恋(泳装|夏日)"
     },
     "1104": {
-        "desc_game": false,
         "loose_regex": "狼|(水|夏日|泳装)?(狼(姐|妹)?|真琴)(夏日|泳装)?",
         "strict_regex": "狼|(水|夏日|泳装)(狼(姐|妹)?|真琴)|(狼(姐|妹)?|真琴)(夏日|泳装)"
     },
     "1105": {
-        "desc_game": false,
         "loose_regex": "(夏日|泳装|水)?(狗(子|拳)?|香织)(夏日|泳装)?",
         "strict_regex": "(夏日|泳装|水)(狗(子|拳)?|香织)|(狗(子|拳)?|香织)(夏日|泳装)"
     },
     "1106": {
-        "desc_game": false,
         "loose_regex": "(水|夏日|泳装)?(真布|真步|狐狸|狐)(夏日|泳装)?",
         "strict_regex": "(水|夏日|泳装)(真布|真步|狐狸|狐)|(真布|真步|狐狸|狐)(夏日|泳装)"
     },
     "1131": {
-        "desc_game": false,
         "loose_regex": "水流|(夏日|泳装)?(大姐|流夏)(夏日|泳装)?",
         "strict_regex": "水流|(夏日|泳装)(大姐|流夏)|(大姐|流夏)(夏日|泳装)"
     },
     "1132": {
-        "desc_game": false,
         "loose_regex": "水中二|(夏日|泳装)?(杏奈|中二)(夏日|泳装)?",
         "strict_regex": "水中二|(夏日|泳装)(杏奈|中二)|(杏奈|中二)(夏日|泳装)"
     },
     "1133": {
-        "desc_game": false,
         "loose_regex": "水七|(夏日|泳装)?七七香(夏日|泳装)?",
         "strict_regex": "水七|(夏日|泳装)七七香|七七香(夏日|泳装)"
     },
     "1134": {
-        "desc_game": false,
         "loose_regex": "水星|(夏日|泳装)?(初音|(星|星星|睡)法)(夏日|泳装)?",
         "strict_regex": "水星|(夏日|泳装)(初音|(星|星星|睡)法)|(初音|(星|星星|睡)法)(夏日|泳装)"
     },
     "1135": {
-        "desc_game": false,
         "loose_regex": "水母|(夏日|泳装)?(美里|圣母)(夏日|泳装)?",
         "strict_regex": "水母|(夏日|泳装)(美里|圣母)|(美里|圣母)(夏日|泳装)"
     },
     "1136": {
-        "desc_game": false,
         "loose_regex": "水黑骑|(夏日|泳装)?(纯|黑骑)(夏日|泳装)?",
         "strict_regex": "水黑骑|(夏日|泳装)(纯|黑骑)|(纯|黑骑)(夏日|泳装)"
     },
     "1081": {
-        "desc_game": false,
         "loose_regex": "(瓜|鬼|万圣(节)?)?忍(万圣(节)?)?",
         "strict_regex": "(瓜|鬼|万圣(节)?)忍|忍(万圣(节)?)"
     },
     "1082": {
-        "desc_game": false,
         "loose_regex": "(狼|万圣(节)?)?(宫子|布丁)(万圣(节)?)?",
         "strict_regex": "(狼|万圣(节)?)(宫子|布丁)|(宫子|布丁)(万圣(节)?)"
     },
     "1083": {
-        "desc_game": false,
         "loose_regex": "瓜眼|(万圣(节)?)?(大眼(法)?|美咲)(万圣(节)?)?",
         "strict_regex": "瓜眼|(万圣(节)?)(大眼(法)?|美咲)|(大眼(法)?|美咲)(万圣(节)?)"
     },
     "1084": {
-        "desc_game": false,
         "loose_regex": "圣歌|圣千|(圣诞(节)?)?千歌(圣诞(节)?)?",
         "strict_regex": "圣歌|圣千|(圣诞(节)?)千歌|千歌(圣诞(节)?)"
     },
     "1085": {
-        "desc_game": false,
         "loose_regex": "(圣诞(节)?)?(胡桃|铃铛)(圣诞(节)?)?",
         "strict_regex": "(圣诞(节)?)(胡桃|铃铛)|(胡桃|铃铛)(圣诞(节)?)"
     },
     "1086": {
-        "desc_game": false,
         "loose_regex": "(圣诞(节)?)?(绫音|綾音|熊锤)(圣诞(节))?",
         "strict_regex": "圣诞(节)?(绫音|綾音|熊锤)|(绫音|綾音|熊锤)圣诞(节)?"
     },
     "1087": {
-        "desc_game": false,
         "loose_regex": "(春(节)?|新(春|年)?)?(日和(莉)?|猫(拳)?)(春(节)?|新(春|年)?)?",
         "strict_regex": "(春(节)?|新(春|年)?)(日和(莉)?|猫(拳)?)|(日和(莉)?|猫(拳)?)(春(节)?|新(春|年)?)"
     },
     "1088": {
-        "desc_game": false,
         "loose_regex": "春田|春优|(春(节)?|新(春|年)?)?(ue|u1|优衣|yui)(春(节)?|新(春|年)?)?",
         "strict_regex": "春田|春优|(春(节)?|新(春|年)?)(ue|u1|优衣|yui)|(ue|u1|优衣|yui)(春(节)?|新(春|年)?)"
     },
     "1089": {
-        "desc_game": false,
         "loose_regex": "春剑|(春(节)?|新(春|年)?)?(剑圣|怜)(春(节)?|新(春|年)?)?",
         "strict_regex": "春剑|(春(节)?|新(春|年)?)(剑圣|怜)|(剑圣|怜)(春(节)?|新(春|年)?)"
     },
+    "1118": {
+        "loose_regex": "佩可莉姆（新年）|ペコリーヌ（ニューイヤー）|貪吃佩可（新年）|春吃|春吃|新年佩可|新年贪吃佩可",
+        "strict_regex": "佩可莉姆（新年）|ペコリーヌ（ニューイヤー）|貪吃佩可（新年）|春吃|春吃|新年佩可|新年贪吃佩可"
+    },
     "1119": {
-        "desc_game": false,
         "loose_regex": "春白|春妈|(春(节)?|新(春|年)?)?(可可萝|妈|白毛)(春(节)?|新(春|年)?)?",
         "strict_regex": "春白|春妈|(春(节)?|新(春|年)?)(可可萝|妈|白毛)|(可可萝|妈|白毛)(春(节)?|新(春|年)?)"
     },
     "1120": {
-        "desc_game": false,
         "loose_regex": "春黑|唯一神|(春(节)?|新(春|年)?)?(凯露|凯留|黑猫)(春(节)?|新(春|年)?)?",
         "strict_regex": "春黑|唯一神|(春(节)?|新(春|年)?)(凯露|凯留|黑猫)|(凯露|凯留|黑猫)(春(节)?|新(春|年)?)"
     },
     "1121": {
-        "desc_game": false,
         "loose_regex": "(春(节)?|新(春|年)?)?(女仆|铃莓)(春(节)?|新(春|年)?)?",
         "strict_regex": "(春(节)?|新(春|年)?)(女仆|铃莓)|(女仆|铃莓)(春(节)?|新(春|年)?)"
     },
     "1090": {
-        "desc_game": false,
         "loose_regex": "(情|恋|情人)病|情人节?(惠理子|病娇)情人节?",
         "strict_regex": "(情|恋|情人)病|情人节(惠理子|病娇)|(惠理子|病娇)情人节"
     },
     "1091": {
-        "desc_game": false,
         "loose_regex": "(情|恋|情人)姐|(情人(节)?)?(姐姐|静流)(情人(节)?)?",
         "strict_regex": "(情|恋|情人)姐|情人(节)?(姐姐|静流)|(姐姐|静流)情人(节)?"
     },
     "1111": {
-        "desc_game": false,
         "loose_regex": "mcw|猫仓|(万圣(节)?)?(xcw|小仓唯|镜华)(万圣(节)?)?",
         "strict_regex": "mcw|猫仓|万圣(节)?(xcw|小仓唯|镜华)|(xcw|小仓唯|镜华)万圣(节)?"
     },
     "1112": {
-        "desc_game": false,
         "loose_regex": "圣蛋人|圣弹人|(万圣(节)?)?(炸弹(人)?|未奏希|禊)(万圣(节)?)?",
         "strict_regex": "圣蛋人|圣弹人|(万圣(节)?)(炸弹(人)?|未奏希|禊)|(炸弹(人)?|未奏希|禊)(万圣(节)?)"
     },
     "1113": {
-        "desc_game": false,
         "loose_regex": "(万圣(节)?)?(兔|兔兔|兔子|美美|兔剑)(万圣(节)?)?",
         "strict_regex": "(万圣(节)?)(兔|兔兔|兔子|美美|兔剑)|(兔|兔兔|兔子|美美|兔剑)(万圣(节)?)"
     },
     "1115": {
-        "desc_game": false,
         "loose_regex": "圣克|(圣诞(节)?)?(克总|克里斯蒂娜)(圣诞(节)?)?",
         "strict_regex": "圣克|(圣诞(节)?)(克总|克里斯蒂娜)|(克总|克里斯蒂娜)(圣诞(节)?)"
     },
     "1116": {
-        "desc_game": false,
         "loose_regex": "(圣诞(节)?)?(望|偶像)(圣诞(节)?)?",
         "strict_regex": "(圣诞(节)?)(望|偶像)|(望|偶像)(圣诞(节)?)"
     },
     "1117": {
-        "desc_game": false,
         "loose_regex": "圣伊|(圣诞(节)?)?(yly|伊利亚|伊莉雅)(圣诞(节)?)?",
         "strict_regex": "圣伊|(圣诞(节)?)(yly|伊利亚|伊莉雅|伊)|(yly|伊利亚|伊莉雅)(圣诞(节)?)"
     },
     "1122": {
-        "desc_game": false,
         "loose_regex": "魔驴|(魔法(少女)?)?(霞|侦探|驴|香澄)(魔法(少女)?)?",
         "strict_regex": "魔驴|(魔法(少女)?)(霞|侦探|驴|香澄)|(霞|侦探|驴|香澄)(魔法(少女)?)"
     },
     "1123": {
-        "desc_game": false,
         "loose_regex": "(魔|魔法|法)弓|(魔法少女)?(栞|tp弓)(魔法少女)?",
         "strict_regex": "(魔|魔法|法)弓|魔法少女(栞|tp弓)|(栞|tp弓)魔法少女"
     },
     "1127": {
-        "desc_game": false,
         "loose_regex": "武松|钻头哥|(游侠)?(松鼠|铃)(游侠)?",
         "strict_regex": "武松|钻头哥|游侠(松鼠|铃)|(松鼠|铃)游侠"
     },
     "1128": {
-        "desc_game": false,
-        "loose_regex": "游侠真阳|真阳游侠|牛叉|真阳|母牛",
+        "loose_regex": "游侠真阳|真阳游侠|牛叉|真阳|母牛|奶牛",
         "strict_regex": "游侠真阳|真阳游侠|牛叉"
     },
     "1129": {
-        "desc_game": false,
         "loose_regex": "爽(妹|弓|妹弓)|(仙境|梦)?(妹弓|璃乃)(仙境|梦)?",
         "strict_regex": "爽(妹|弓|妹弓)|(仙境|梦)(妹弓|璃乃)|(妹弓|璃乃)(仙境|梦)"
     },
     "1130": {
-        "desc_game": false,
         "loose_regex": "梦(露|路)|(仙境|梦)?(路人|步未)(仙境|梦)?",
         "strict_regex": "梦(露|路)|(仙境|梦)(路人|步未)|(路人|步未)(仙境|梦)"
     },
     "1137": {
-        "desc_game": false,
         "loose_regex": "(天使)?(茜里|妹法)(天使)?",
         "strict_regex": "天使(茜里|妹法)|(茜里|妹法)天使"
     },
     "1138": {
-        "desc_game": false,
         "loose_regex": "(天使)?(依里|姐法)(天使)?",
         "strict_regex": "天使(依里|姐法)|(依里|姐法)天使"
     },
     "1139": {
-        "desc_game": false,
         "loose_regex": "鬼才|(万|瓜|鬼)裁|(万圣(节)?)?(裁缝|纺希)(万圣(节)?)?",
         "strict_regex": "鬼才|(万|瓜|鬼)裁|(万圣(节)?)(裁缝|纺希)|(裁缝|纺希)(万圣(节)?)"
     },
     "1140": {
-        "desc_game": false,
         "loose_regex": "(瓜|鬼)剑|(万圣(节)?)?(剑|剑圣|怜)(万圣(节)?)?",
         "strict_regex": "(瓜|鬼)剑|(万圣(节)?)(剑|剑圣|怜)|(剑|剑圣|怜)(万圣(节)?)"
     },
     "1141": {
-        "desc_game": false,
         "loose_regex": "(万圣(节)?)?(茉莉|老虎|跳跳虎)(万圣(节)?)?",
         "strict_regex": "(万圣(节)?)(茉莉|老虎|跳跳虎)|(茉莉|老虎|跳跳虎)(万圣(节)?)"
     },
     "1142": {
-        "desc_game": false,
         "loose_regex": "(魔法少女)?毛二力|(魔法少女)?莫妮卡|魔二力",
         "strict_regex": "魔法少女(毛二力|莫妮卡)|魔二力"
     },
     "1143": {
-        "desc_game": false,
         "loose_regex": "(魔法少女)?(智|卜毛|白毛)|9智",
         "strict_regex": "(魔法少女)(智|卜毛|白毛)|9智"
     },
     "1144": {
-        "desc_game": false,
         "loose_regex": "哈哈剑|圣诞哈哈剑|圣哈|生煎",
         "strict_regex": "圣诞哈哈剑|圣哈|生煎"
     },
     "1145": {
-        "desc_game": false,
-        "loose_regex": "充电宝|圣诞咲恋|圣充",
+        "loose_regex": "充电宝|圣诞咲恋|圣充|咲恋",
         "strict_regex": "圣诞咲恋|圣充"
     },
     "1146": {
-        "desc_game": false,
         "loose_regex": "(圣诞)?(由加莉|黄骑|圣骑)|圣骑|蛋黄|蛋骑",
         "strict_regex": "圣诞(由加莉|黄骑|圣骑)|圣骑|蛋黄|蛋骑"
     },
+    "1147": {
+        "loose_regex": "(新年|春|新春)?(矛依未|511)",
+        "strict_regex": ""
+    },
+    "1150": {
+        "loose_regex": "(新年|春|新春)?(妃|似似花|nnk)",
+        "strict_regex": ""
+    },
+    "1155": {
+        "loose_regex": "礼妈|礼白|(礼服|礼)?(可可萝|妈|白毛)",
+        "strict_regex": ""
+    },
+    "1156": {
+        "loose_regex": "春田|春优|(春(节)?|新(春|年)?)?(ue|u1|优衣|yui)",
+        "strict_regex": ""
+    },
+    "1157": {
+        "loose_regex": "水驴|水探|(夏日|泳装|水)?(香澄|霞|侦探|驴)",
+        "strict_regex": ""
+    },
+    "1158": {
+        "loose_regex": "(灰|灰姑娘)?(羊|羊驼|莉玛|尼玛)",
+        "strict_regex": ""
+    },
+    "1159": {
+        "loose_regex": "灰太狼|(灰|灰姑娘)?((狼(姐|妹)?)|真琴)",
+        "strict_regex": ""
+    },
     "1702": {
-        "desc_game": false,
         "loose_regex": "环奈振袖|春环|振环|甄嬛",
         "strict_regex": "环奈振袖|春环|振环|甄嬛"
     },
     "1802": {
-        "desc_game": false,
         "loose_regex": "(公主|高达|飞翼)?(ue|优衣|u1)",
         "strict_regex": "(公主|高达|飞翼)(ue|优衣|u1)"
     },
     "1804": {
-        "desc_game": false,
         "loose_regex": "高达|命运|(公主|命运)?(佩可|配可|佩可莉姆|吃货)",
         "strict_regex": "高达|命运|(公主|命运)(佩可|配可|佩可莉姆|吃货)"
     },
     "1805": {
-        "desc_game": false,
         "loose_regex": "蝶妈|月光蝶|飞妈|(公主)?(可可萝|妈|白毛)",
         "strict_regex": "蝶妈|月光蝶|飞妈|公主可可萝|可可萝公主"
+    },
+    "1806": {
+        "loose_regex": "天猫|(公主)(黑猫|凯露|凯留|臭鼬)",
+        "strict_regex": ""
     }
 }

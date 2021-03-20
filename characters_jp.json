@@ -48,7 +48,7 @@
         "location": 0,
         "range": 205,
         "init_star": 1,
-        "max_star": 5,
+        "max_star": 6,
         "have_weapon": true,
         "cn_name": "未奏希",
         "tw_name": "禊",
@@ -81,7 +81,7 @@
         "location": 1,
         "range": 570,
         "init_star": 2,
-        "max_star": 5,
+        "max_star": 6,
         "have_weapon": true,
         "cn_name": "茜里",
         "tw_name": "茜里",
@@ -287,7 +287,7 @@
         "location": 1,
         "range": 360,
         "init_star": 2,
-        "max_star": 5,
+        "max_star": 6,
         "have_weapon": true,
         "cn_name": "美美",
         "tw_name": "美美",
@@ -318,7 +318,7 @@
         "location": 1,
         "range": 575,
         "init_star": 1,
-        "max_star": 5,
+        "max_star": 6,
         "have_weapon": true,
         "cn_name": "依里",
         "tw_name": "依里",
@@ -497,7 +497,7 @@
         "location": 2,
         "range": 810,
         "init_star": 3,
-        "max_star": 5,
+        "max_star": 6,
         "have_weapon": true,
         "cn_name": "镜华",
         "tw_name": "鏡華",
@@ -882,6 +882,18 @@
             "亚莉莎",
             "亚里沙"
         ]
+    },
+    "1064": {
+        "name": "シェフィ",
+        "location": 1,
+        "range": 368,
+        "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
+        "cn_name": "雪菲",
+        "tw_name": "",
+        "main_cn_nickname": "",
+        "cn_nicknames": []
     },
     "1065": {
         "name": "カヤ",
@@ -1650,6 +1662,22 @@
             "圣伊"
         ]
     },
+    "1118": {
+        "name": "ペコリーヌ（ニューイヤー）",
+        "location": 0,
+        "range": 248,
+        "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
+        "cn_name": "佩可莉姆（新年）",
+        "tw_name": "貪吃佩可（新年）",
+        "main_cn_nickname": "春吃",
+        "cn_nicknames": [
+            "春吃",
+            "新年佩可",
+            "新年贪吃佩可"
+        ]
+    },
     "1119": {
         "name": "コッコロ（ニューイヤー）",
         "location": 0,
@@ -1675,7 +1703,7 @@
         "max_star": 5,
         "have_weapon": false,
         "cn_name": "凯露（新年）",
-        "tw_name": "新春凯露",
+        "tw_name": "凯留（新年）",
         "main_cn_nickname": "春黑",
         "cn_nicknames": [
             "春黑",
@@ -1942,7 +1970,7 @@
         "max_star": 5,
         "have_weapon": false,
         "cn_name": "茜里（天使）",
-        "tw_name": "",
+        "tw_name": "茜里（天使）",
         "main_cn_nickname": "天使妹法",
         "cn_nicknames": [
             "天使妹法"
@@ -1956,7 +1984,7 @@
         "max_star": 5,
         "have_weapon": false,
         "cn_name": "依里（天使）",
-        "tw_name": "",
+        "tw_name": "依里（天使）",
         "main_cn_nickname": "天使姐法",
         "cn_nicknames": [
             "天使姐法"
@@ -2049,7 +2077,7 @@
         "max_star": 5,
         "have_weapon": false,
         "cn_name": "秋乃(圣诞节)",
-        "tw_name": "（聖誕節）",
+        "tw_name": "秋乃（聖誕節）",
         "main_cn_nickname": "圣诞哈哈剑",
         "cn_nicknames": [
             "生煎",
@@ -2065,7 +2093,7 @@
         "max_star": 5,
         "have_weapon": false,
         "cn_name": "咲恋(圣诞节)",
-        "tw_name": "（聖誕節）",
+        "tw_name": "咲恋（聖誕節）",
         "main_cn_nickname": "圣诞咲恋",
         "cn_nicknames": [
             "圣诞充电宝",
@@ -2089,20 +2117,96 @@
             "圣诞圣骑"
         ]
     },
-    "1702": {
-        "name": "环奈（振袖）",
+    "1147": {
+        "name": "ムイミ（ニューイヤー）",
+        "location": 0,
+        "range": 138,
+        "init_star": 1,
+        "max_star": 5,
+        "have_weapon": false,
+        "cn_name": "矛依未（新年）",
+        "tw_name": "矛依未（新年）",
+        "main_cn_nickname": "春511",
+        "cn_nicknames": []
+    },
+    "1150": {
+        "name": "ネネカ（ニューイヤー）",
         "location": 1,
-        "range": 527,
+        "range": 562,
         "init_star": 3,
         "max_star": 5,
         "have_weapon": false,
-        "cn_name": "环奈(振袖)",
-        "tw_name": "环奈（振袖）",
-        "main_cn_nickname": "春环",
+        "cn_name": "似似花（新年）",
+        "tw_name": "似似花（新年）",
+        "main_cn_nickname": "春448",
         "cn_nicknames": [
-            "甄嬛",
-            "振环"
+            "春妃",
+            "春nnk"
         ]
+    },
+    "1155": {
+        "name": "コッコロ（儀装束）",
+        "location": 1,
+        "range": 533,
+        "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
+        "cn_name": "可可萝（礼服）",
+        "tw_name": "可可蘿（儀装束）",
+        "main_cn_nickname": "礼妈",
+        "cn_nicknames": [
+            "礼白"
+        ]
+    },
+    "1156": {
+        "name": "ユイ（儀装束）",
+        "location": 1,
+        "range": 578,
+        "init_star": 1,
+        "max_star": 5,
+        "have_weapon": false,
+        "cn_name": "优衣（礼服）",
+        "tw_name": "優衣（儀装束）",
+        "main_cn_nickname": "礼衣",
+        "cn_nicknames": [
+            "礼田"
+        ]
+    },
+    "1157": {
+        "name": "カスミ（サマー）",
+        "location": 2,
+        "range": 738,
+        "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
+        "cn_name": "霞（夏日）",
+        "tw_name": "霞（夏日）",
+        "main_cn_nickname": "水驴",
+        "cn_nicknames": []
+    },
+    "1158": {
+        "name": "リマ（シンデレラ）",
+        "location": 0,
+        "range": 173,
+        "init_star": 1,
+        "max_star": 5,
+        "have_weapon": false,
+        "cn_name": "莉玛（灰姑娘）",
+        "tw_name": "莉瑪（灰姑娘）",
+        "main_cn_nickname": "灰羊",
+        "cn_nicknames": []
+    },
+    "1159": {
+        "name": "マコト（シンデレラ）",
+        "location": 0,
+        "range": 166,
+        "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
+        "cn_name": "真琴（灰姑娘）",
+        "tw_name": "真琴（灰姑娘）",
+        "main_cn_nickname": "灰狼",
+        "cn_nicknames": []
     },
     "1802": {
         "name": "ユイ（プリンセス）",
@@ -2154,6 +2258,20 @@
             "公主可可萝",
             "月光蝶",
             "飞妈"
+        ]
+    },
+    "1806": {
+        "name": "キャル（プリンセス）",
+        "location": 2,
+        "range": 747,
+        "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
+        "cn_name": "凯露（公主）",
+        "tw_name": "凯留（公主）",
+        "main_cn_nickname": "天猫",
+        "cn_nicknames": [
+            "公主黑猫"
         ]
     }
 }
