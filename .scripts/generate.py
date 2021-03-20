@@ -14,7 +14,7 @@ LOCATION_INDEX_DICT = {
     "behind": 2
 }
 
-SPECIAL_CN_CHARAS = [ 1701 ]
+SPECIAL_CN_CHARAS = [ 1701, 1702 ]
 
 def json_release(filename, obj):
     with open(os.path.join("./release", f"{filename}.json"), "w", encoding="utf-8") as f:
@@ -30,6 +30,8 @@ def generate_characters_json():
         reader = csv.reader(f)
         for i, row in enumerate(reader):
             if i == 0:
+                continue
+            if row[0] == '':
                 continue
             chara = {
                 "location": LOCATION_DICT.get(row[4], None),
@@ -47,8 +49,6 @@ def generate_characters_json():
                     chara["nicknames"].append(row[j])
             charas_dict[int(row[0])] = chara
         f.close()
-    
-    json_release('characters', charas_dict)
 
     charas_special = {}
     with open("characters_special.csv", "r", encoding="utf-8-sig") as f:
@@ -63,6 +63,7 @@ def generate_characters_json():
                 "cn_weapon": row[5] == "1"
             }
             charas_special[int(row[0])] = item
+            charas_dict[int(row[0])]['max_star'] = 6 if item["jp_max_star"] == 6 or item["cn_max_star"] == 6 else 5
         f.close()
     
     characters_cn = {}
@@ -97,6 +98,7 @@ def generate_characters_json():
                 "main_nickname": chara["main_nickname"],
                 "nicknames": chara["nicknames"],
             }
+    json_release('characters', charas_dict)
     json_release("characters_cn", characters_cn)
     json_release("characters_jp", characters_jp)
 
@@ -123,21 +125,19 @@ def generate_names_regex_json():
         for i, row in enumerate(reader):
             if i == 0 or row[0] == "":
                 continue
-            if row[5] == "":
+            if row[4] == "":
                 nicknames = []
-                nicknames += row[2:5]
-                for j in range(7, len(row)):
+                nicknames += row[1:4]
+                for j in range(6, len(row)):
                     if row[j] != "":
                         nicknames.append(row[j])
                 regex = "|".join(nicknames)
                 loose_regex = regex
                 strict_regex = regex
             else:
-                loose_regex = row[5]
-                strict_regex = row[6]
-            desc_game = (row[1] == "1")
+                loose_regex = row[4]
+                strict_regex = row[5]
             obj[int(row[0])] = {
-                "desc_game": desc_game,
                 'loose_regex': loose_regex,
                 'strict_regex': strict_regex
             }
