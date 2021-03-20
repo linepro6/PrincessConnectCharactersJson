@@ -2208,6 +2208,20 @@
         "main_cn_nickname": "灰狼",
         "cn_nicknames": []
     },
+    "1801": {
+        "name": "ヒヨリ（プリンセス）",
+        "location": 0,
+        "range": 199,
+        "init_star": 3,
+        "max_star": 5,
+        "have_weapon": false,
+        "cn_name": "日和莉（公主）",
+        "tw_name": "日和（公主）",
+        "main_cn_nickname": "公主猫拳",
+        "cn_nicknames": [
+            "公主日和"
+        ]
+    },
     "1802": {
         "name": "ユイ（プリンセス）",
         "location": 2,

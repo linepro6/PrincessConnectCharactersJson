@@ -2281,6 +2281,20 @@
         ],
         "max_star": 5
     },
+    "1801": {
+        "location": "front",
+        "cn_exists": false,
+        "range": 199,
+        "init_star": 3,
+        "cn_name": "日和莉（公主）",
+        "jp_name": "ヒヨリ（プリンセス）",
+        "tw_name": "日和（公主）",
+        "main_nickname": "公主猫拳",
+        "nicknames": [
+            "公主日和"
+        ],
+        "max_star": 5
+    },
     "1802": {
         "location": "behind",
         "cn_exists": false,

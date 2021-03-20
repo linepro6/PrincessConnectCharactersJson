@@ -583,6 +583,10 @@
         "loose_regex": "环奈振袖|春环|振环|甄嬛",
         "strict_regex": "环奈振袖|春环|振环|甄嬛"
     },
+    "1801": {
+        "loose_regex": "(公主)?(猫拳|猫|日和莉?)",
+        "strict_regex": ""
+    },
     "1802": {
         "loose_regex": "(公主|高达|飞翼)?(ue|优衣|u1)",
         "strict_regex": "(公主|高达|飞翼)(ue|优衣|u1)"
