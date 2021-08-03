@@ -264,7 +264,7 @@
             "狗子",
             "狗拳"
         ],
-        "max_star": 5
+        "max_star": 6
     },
     "1018": {
         "location": "behind",
@@ -358,7 +358,7 @@
             "女仆",
             "雀"
         ],
-        "max_star": 5
+        "max_star": 6
     },
     "1026": {
         "location": "middle",
@@ -415,7 +415,7 @@
         "nicknames": [
             "偶像"
         ],
-        "max_star": 5
+        "max_star": 6
     },
     "1030": {
         "location": "middle",
@@ -553,7 +553,7 @@
             "毒弓",
             "绿帽弓"
         ],
-        "max_star": 5
+        "max_star": 6
     },
     "1042": {
         "location": "behind",
@@ -1427,7 +1427,7 @@
     },
     "1100": {
         "location": "behind",
-        "cn_exists": false,
+        "cn_exists": true,
         "range": 705,
         "init_star": 3,
         "cn_name": "铃奈（夏日）",
@@ -1444,7 +1444,7 @@
     },
     "1101": {
         "location": "behind",
-        "cn_exists": false,
+        "cn_exists": true,
         "range": 715,
         "init_star": 1,
         "cn_name": "伊绪（夏日）",
@@ -1462,7 +1462,7 @@
     },
     "1103": {
         "location": "middle",
-        "cn_exists": false,
+        "cn_exists": true,
         "range": 585,
         "init_star": 3,
         "cn_name": "咲恋（夏日）",
@@ -1480,7 +1480,7 @@
     },
     "1104": {
         "location": "front",
-        "cn_exists": false,
+        "cn_exists": true,
         "range": 180,
         "init_star": 3,
         "cn_name": "真琴（夏日）",
@@ -1496,7 +1496,7 @@
     },
     "1105": {
         "location": "middle",
-        "cn_exists": false,
+        "cn_exists": true,
         "range": 425,
         "init_star": 1,
         "cn_name": "香织（夏日）",
@@ -1511,7 +1511,7 @@
     },
     "1106": {
         "location": "behind",
-        "cn_exists": false,
+        "cn_exists": true,
         "range": 792,
         "init_star": 3,
         "cn_name": "真步（夏日）",
@@ -1529,7 +1529,7 @@
     },
     "1107": {
         "location": "behind",
-        "cn_exists": false,
+        "cn_exists": true,
         "range": 680,
         "init_star": 3,
         "cn_name": "碧（插班生）",
@@ -1544,7 +1544,7 @@
     },
     "1108": {
         "location": "front",
-        "cn_exists": false,
+        "cn_exists": true,
         "range": 185,
         "init_star": 3,
         "cn_name": "克萝伊",
@@ -1560,7 +1560,7 @@
     },
     "1109": {
         "location": "front",
-        "cn_exists": false,
+        "cn_exists": true,
         "range": 222,
         "init_star": 3,
         "cn_name": "琪爱儿",
@@ -1575,7 +1575,7 @@
     },
     "1110": {
         "location": "behind",
-        "cn_exists": false,
+        "cn_exists": true,
         "range": 807,
         "init_star": 3,
         "cn_name": "优妮",
@@ -1589,7 +1589,7 @@
     },
     "1111": {
         "location": "behind",
-        "cn_exists": false,
+        "cn_exists": true,
         "range": 820,
         "init_star": 3,
         "cn_name": "镜华（万圣节）",
@@ -1607,7 +1607,7 @@
     },
     "1112": {
         "location": "front",
-        "cn_exists": false,
+        "cn_exists": true,
         "range": 212,
         "init_star": 1,
         "cn_name": "未奏希（万圣节）",
@@ -1626,7 +1626,7 @@
     },
     "1113": {
         "location": "middle",
-        "cn_exists": false,
+        "cn_exists": true,
         "range": 365,
         "init_star": 3,
         "cn_name": "美美（万圣节）",
@@ -1643,7 +1643,7 @@
     },
     "1114": {
         "location": "behind",
-        "cn_exists": false,
+        "cn_exists": true,
         "range": 765,
         "init_star": 3,
         "cn_name": "露娜",
