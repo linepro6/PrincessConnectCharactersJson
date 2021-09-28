@@ -973,7 +973,7 @@
     },
     "1070": {
         "location": "behind",
-        "cn_exists": false,
+        "cn_exists": true,
         "range": 660,
         "init_star": 3,
         "cn_name": "似似花",
